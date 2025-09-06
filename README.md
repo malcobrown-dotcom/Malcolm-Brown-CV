@@ -134,7 +134,13 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Workforce planning for global technology (3,800+ staff, 14+ locations)
 - Future skills planning (AI, Data, Digital)
 - Succession planning and capability gap analysis
-- Diversity, inclusion, recognition, and engagement programs
+
+**Engagement & Cultural Transformation**
+- Designed and delivered **People, Culture, Learning & Engagement frameworks** for 4,000+ employees at Standard Chartered, improving empowerment and retention
+- Built **upskilling and future skills programs** aligned to AI, data, and digital transformation
+- Created and managed **large-scale mentoring and coaching programs** to strengthen leadership pipelines and career development
+- Implemented **hybrid work practices** (e.g., Team Agreements) and supported workspace redesigns to improve collaboration and accountability
+- Delivered **diversity, inclusion, recognition, and well-being initiatives** across global teams (Amex, BAML, SCB, Prudential)
 
 **Workplace, Facilities & Office Management**
 - **Office management** and operations oversight, including space planning, vendor engagement, and day-to-day facilities management
