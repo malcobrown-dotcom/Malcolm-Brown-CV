@@ -192,7 +192,8 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Authentic Leadership – Leadership development (Amex)
 - Situational Leadership II – Adaptive leadership
 - Shackleton Leadership Experience - Optimistic, pragmatic Leadership
-- Public Speaking & Presentation Skills including toastmasters and Powerful storytelling – Executive communication
-- Executive Prescence (Bank of America)
+- Public Speaking & Presentation Skills (including Toastmasters and storytelling) – Executive communication
+- Executive Presence (Bank of America)
 - Employee Engagement & HR Leadership – Amex HR program
 - Compliance training – Amex, BAML, SCB, Prudential
+- Fire Warden and AED device training
