@@ -1,6 +1,6 @@
 # Malcolm Brown — Career Portfolio (1998 – Present)
 
-📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 
+📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 | [LinkedIn](#)
 
 ---
 
@@ -28,6 +28,7 @@
 - Implemented **hybrid working strategies** with “Team Agreements”.
 - Designed and ran **large-scale mentoring and coaching programs**.
 - Provided **consultative support to executives** on workforce and culture strategy.
+- Partnered with **workplace and real estate teams** to align office design with employee culture, learning, and well-being.
 
 **Head of Business Planning & Strategy, Head of PMO, T&I — Financial Markets (2016 – 2020)**
 - Directed **USD 60M+ portfolio governance** across projects and BAU.
@@ -36,6 +37,7 @@
 - Introduced **portfolio dashboards** and executive-level reporting.
 - Streamlined **vendor and contractor management processes**.
 - Supported **large-scale transformation programs**, including platform simplification.
+- **Office manager** covering office layout and seating plans as well as fire warden and office event management
 
 ---
 
@@ -47,6 +49,7 @@
 - Implemented **cost allocation frameworks** and vendor governance.
 - Supported **regulatory programs** and infrastructure resilience initiatives.
 - Led **employee engagement and diversity programs** across APAC.
+- **Office manager** covering office layout and seating plans as well as fire warden and office event management
 
 ---
 
@@ -113,6 +116,13 @@
 - Future skills planning (AI, Data, Digital)
 - Succession planning and capability gap analysis
 - Diversity, inclusion, recognition, and engagement programs
+
+**Workplace, Facilities & Office Management**
+- **Office management** and operations oversight, including space planning, vendor engagement, and day-to-day facilities management
+- Experience leading **major office rebuilds and relocations** (Standard Chartered Singapore HQ, Prudential Singapore office move & redesign)
+- Health & Safety (EHS) awareness and compliance
+- Workplace culture & employee experience programming
+- Landlord, vendor, and contractor relationship management
 
 **Governance & Metrics**
 - Governance frameworks for hiring, funding, and workforce principles
