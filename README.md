@@ -1,4 +1,4 @@
-# Malcolm Brown — Career Portfolio (1998 – Present)
+# Malcolm Brown — Career Portfolio 
 
 📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 | [LinkedIn](https://www.linkedin.com/in/malcolm-brown-2531529)
 ---
