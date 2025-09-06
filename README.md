@@ -4,6 +4,19 @@
 
 ---
 
+Accomplished senior leader with 20+ years of experience in **data management and sourcing, finacial management, workforce transformation, vendor management, governance, cultural transformation, process improvement and empathetic leadership**.  
+
+Known for combining **strategic vision with operational excellence**, creating **human-centered, future-ready workplaces, teams and processes** that drive performance, culture, and innovation.
+
+
+
+## 📑 Quick Navigation
+- [Career Roles](#-career-roles)  
+- [Skills & Competencies](#-skills--competencies)  
+- [Education & Certifications](#-education--certifications)  
+- [About Me](#about-me)
+  
+
 ## 🏢 Career Roles
 
 ### Prudential (Singapore) — Aug 2024 to Present
