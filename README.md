@@ -1,7 +1,6 @@
 # Malcolm Brown — Career Portfolio (1998 – Present)
 
 📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 | [LinkedIn](https://www.linkedin.com/in/malcolm-brown-2531529)
-
 ---
 
 Accomplished senior leader with 20+ years of experience in **data management and sourcing, finacial management, workforce transformation, vendor management, governance, cultural transformation, process improvement and empathetic leadership**.  
