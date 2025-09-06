@@ -10,7 +10,7 @@
 **Head of Business Management, Technology COO Office**
 - Direct support for **COO, CIO, and CTOO** in driving technology enablement programs.
 - Developed the **first enterprise-wide workforce plan**, covering location strategy, central vs. local responsibilities, and future skills (AI, data, partnerships).
-- Created a **total cost of technology model and process**, consolidating workforce, vendor, cloud, and third-party allocations.
+- Created a **total cost of technology model and process**, consolidating workforce effort, vendor, cloud, and third-party allocations.
 - Launched **Technology APEX efficiency framework**, delivering **USD 30M+ in 8 months** across 8 optimisation pillars.
 - Established a **Vendor Management Office (VMO)** and **outcome-based managed services model**.
 - Established a **Vendor Management Governance framework**, simplifying the vendor landscape and strategic alignment.
@@ -29,6 +29,7 @@
 - Designed and ran **large-scale mentoring and coaching programs**.
 - Provided **consultative support to executives** on workforce and culture strategy.
 - Partnered with **workplace and real estate teams** to align office design with employee culture, learning, and well-being.
+- **Communication events manager** designing and facilitating award ceremonies, celebrations, learning sessions and townhalls
 
 **Head of Business Planning & Strategy, Head of PMO, T&I — Financial Markets (2016 – 2020)**
 - Directed **USD 60M+ portfolio governance** across projects and BAU.
@@ -38,6 +39,8 @@
 - Streamlined **vendor and contractor management processes**.
 - Supported **large-scale transformation programs**, including platform simplification.
 - **Office manager** covering office layout and seating plans as well as fire warden and office event management
+- **Communication events manager** designing and facilitating award ceremonies, celebrations, learning sessions and townhalls
+- Managed **promotion planning, succession planning and talent review** processes and workshops
 
 ---
 
@@ -50,6 +53,8 @@
 - Supported **regulatory programs** and infrastructure resilience initiatives.
 - Led **employee engagement and diversity programs** across APAC.
 - **Office manager** covering office layout and seating plans as well as fire warden and office event management
+- **Communication events manager** designing and facilitating award ceremonies, quizzes, treasure hunts, celebrations, learning sessions and townhalls
+- Managed **promotion planning, succession planning and talent review** processes and workshops
 
 ---
 
@@ -57,7 +62,8 @@
 **Asia MI Contractor**
 - Produced **management information reporting and analytics** across Asia.
 - Delivered financial packs to support **workforce and portfolio planning**.
-- Partnered with technology leaders to improve transparency of spend.
+- Partnered with technology leaders to improve **transparency of spend**.
+- Redesigned reporting process and outputs to improve both **quality and time to deliver**
 
 ---
 
@@ -69,6 +75,7 @@
 - Achieved **2008 budget target**, implemented diversity reporting for 13k+ staff.
 - Negotiated **2009 regional budgets** during restructuring.
 - Developed **time allocation methodology** to charge HR costs to 13 business lines.
+- Managed **promotion planning, succession planning and talent review** processes and workshops
 
 **Membership Travel Services International – Manager, Business Analysis & Strategic Partnerships (Aug 2005 – Nov 2007, London/Burgess Hill)**
 - Owned and managed **Membership Travel MI structure** globally.
