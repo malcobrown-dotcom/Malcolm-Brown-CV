@@ -21,7 +21,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 ### Prudential (Singapore) — Aug 2024 to Present
 **Head of Business Management, Technology COO Office**
 - Direct support for **COO, CIO, and CTOO** in driving technology enablement programs.
-- Developed the **first enterprise-wide workforce plan**, covering location strategy, central vs. local responsibilities, and future skills (AI, data, partnerships).
+- Developed the **first enterprise-wide workforce plan**, covering location strategy, central vs. local responsibilities, and future skills.
 - Created a **total cost of technology model and process**, consolidating workforce effort, vendor, cloud, and third-party allocations.
 - Launched **Technology APEX efficiency framework**, delivering **USD 30M+ in 8 months** across 8 optimisation pillars.
 - Established a **Vendor Management Office (VMO)** and **outcome-based managed services model**.
@@ -45,11 +45,11 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 **Head of Business Planning & Strategy, Head of PMO, T&I — Financial Markets (2016 – 2020)**
 - Directed **USD 60M+ portfolio governance** across projects and BAU.
-- Built and managed a **PMO team of 5 specialists**.
+- Built and managed a **PMO team of 5 specialists** supporting BAU and Change cost analysis, tracking and implementation.
 - Oversaw workforce planning for **~1,200 staff** across Singapore, London, and Chennai.
 - Introduced **portfolio dashboards** and executive-level reporting.
 - Streamlined **vendor and contractor management processes**.
-- Supported **large-scale transformation programs**, including platform simplification.
+- Supported **large-scale transformation programs** including North star design, Ways of Working, organisational Values.
 - **Office manager** covering office layout and seating plans as well as fire warden and office event management
 - **Communication events manager** designing and facilitating award ceremonies, celebrations, learning sessions and townhalls
 - Managed **promotion planning, succession planning and talent review** processes and workshops
@@ -59,9 +59,9 @@ Known for combining **strategic vision with operational excellence**, creating *
 ### Bank of America Merrill Lynch (Singapore) — 2010 to 2016
 **VP, Business Manager, FICC Technology (APAC & Global Emerging Markets)**
 - Managed **USD 40M annual technology budget** and **USD 80M application cost base**.
+- Re-designed and rebalanced **Cost of Application reporting and allocations**.
 - Directed **workforce planning and location strategy** across APAC.
 - Produced **management packs for ExCo** on financials, risk, and delivery.
-- Implemented **cost allocation frameworks** and vendor governance.
 - Supported **regulatory programs** and infrastructure resilience initiatives.
 - Led **employee engagement and diversity programs** across APAC.
 - **Office manager** covering office layout and seating plans as well as fire warden and office event management
