@@ -191,14 +191,20 @@ Known for combining **strategic vision with operational excellence**, creating *
 - **ISS International School of Singapore** – Sept 1990 – May 1996 (7 GCSEs, 3 A Levels)
 
 **Professional Certifications & Training**
-- Six Sigma Green and Yellow Belt – Process Improvement
-- SOX 404 Compliance – Risk & compliance frameworks
-- AE Project Management – American Express internal methodology
-- Authentic Leadership – Leadership development (Amex)
-- Situational Leadership II – Adaptive leadership
+- LUMA HCD Practitioner - Human Centered Design and virtual whiteboarding
 - Shackleton Leadership Experience - Optimistic, pragmatic Leadership
 - Public Speaking & Presentation Skills (including Toastmasters and storytelling) – Executive communication
+- Six Sigma Green and Yellow Belt – Process Improvement
+- SOX 404 Compliance – Risk & compliance frameworks
+- AE Project Management – (Amex)
+- Authentic Leadership – Leadership development (Amex)
+- Situational Leadership II – Adaptive leadership
 - Executive Presence (Bank of America)
-- Employee Engagement & HR Leadership – Amex HR program
-- Compliance training – Amex, BAML, SCB, Prudential
-- Fire Warden and AED device training
+- Employee Engagement & HR Leadership – (Amex)
+- Compliance training – (Amex, BAML, SCB, Prudential)
+- Fire Warden and AED device training - Health and Safety
+- Become a Chief of Staff (Linkedin)
+- Developing a mentoring program (Linkedin)
+- Becoming a Thought Leader  (Linkedin)
+- Delivering results with a business focused PMO  (Linkedin)
+- Communciating about culturally sensitive issues (Linkedin)
