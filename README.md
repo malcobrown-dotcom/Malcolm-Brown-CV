@@ -35,7 +35,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 **KPI & Metrics Lead, People & Culture Lead, CPBB Technology (2020 – 2024)**
 - Created and delivered a **KPI and metrics suite** for senior leadership.
-- Built and rolled out a **People, Culture, Learning & Engagement framework** for 4,000+ staff.
+- Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff.
 - Partnered on **organisation redesign, manpower planning, and job evaluation**.
 - Implemented **hybrid working strategies** with “Team Agreements”.
 - Designed and ran **large-scale mentoring and coaching programs**.
@@ -51,7 +51,8 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Streamlined **vendor and contractor management processes**.
 - Supported **large-scale transformation programs** including North star design, Ways of Working, organisational Values.
 - **Office manager** covering office layout and seating plans as well as fire warden and office event management
-- **Communication events manager** designing and facilitating award ceremonies, celebrations, learning sessions and townhalls
+- **Drove People & Culture agenda** by leading learning programmes, engagement events, and recognition initiatives across multi-market teams, embedding a “People Matter” program that improved employee experience, strengthened collaboration, and boosted retention.
+- **Communication events manager** designing and facilitating award ceremonies, celebrations, and townhalls
 - Managed **promotion planning, succession planning and talent review** processes and workshops
 
 ---
