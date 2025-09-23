@@ -207,5 +207,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Become a Chief of Staff (Linkedin)
 - Developing a mentoring program (Linkedin)
 - Becoming a Thought Leader  (Linkedin)
-- Delivering results with a business focused PMO  (Linkedin)
+
+![Profile views](https://komarev.com/ghpvc/?username=malcobrown-dotcom&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)- Delivering results with a business focused PMO  (Linkedin)
 - Communciating about culturally sensitive issues (Linkedin)
