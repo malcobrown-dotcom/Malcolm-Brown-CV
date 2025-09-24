@@ -196,8 +196,10 @@ Known for combining **strategic vision with operational excellence**, creating *
 - **ISS International School of Singapore** – Sept 1990 – May 1996 (7 GCSEs, 3 A Levels)
 
 **Professional Certifications & Training**
+- LEAP - Leadership at Prudential
 - LUMA HCD Practitioner - Human Centered Design and virtual whiteboarding
 - Shackleton Leadership Experience - Optimistic, pragmatic Leadership
+- Bank of America Global Leadership
 - Public Speaking & Presentation Skills (including Toastmasters and storytelling) – Executive communication
 - Six Sigma Green and Yellow Belt – Process Improvement
 - SOX 404 Compliance – Risk & compliance frameworks
