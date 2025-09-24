@@ -27,7 +27,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Established a **Vendor Management Office (VMO)** and **outcome-based managed services model**.
 - Established a **Vendor Management Governance framework**, simplifying the vendor landscape and strategic alignment.
 - Established a **preferred vendor framework** for contingent workers, ensuring compliance, consistency, and cost control.
-- Led a team of **9 direct reports across 4 countries**, emphasising co-creation of goals and empathetic leadership.
+- Led a team of **9 direct reports across 4 countries**, emphasising co-creation of goals, empathetic leadership, and building high-performing cross-market teams.
 
 ---
 
@@ -35,7 +35,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 **KPI & Metrics Lead, People & Culture Lead, CPBB Technology (2020 – 2024)**
 - Designed and sourced **multiple data streams** to develop a 360 view of the health of the retail technology organisation
-- Created and delivered a **KPI and metrics suite** for senior leadership.
+- Created and delivered a KPI and metrics suite for senior leadership, adopted across CPBB Technology to drive transparency and accountability for a 4,000+ person organisation.
 - Built **RAG status reports and presentations** covering all areas of the KPI suites, commentary and Paths to Green
 - Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff that covered Diversity & Inclusion, Learning & Development, Culture & Engagement, External Engagements.
 - Partnered on **organisation redesign, manpower planning, and job evaluation**.
