@@ -27,18 +27,22 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Established a **Vendor Management Office (VMO)** and **outcome-based managed services model**.
 - Established a **Vendor Management Governance framework**, simplifying the vendor landscape and strategic alignment.
 - Established a **preferred vendor framework** for contingent workers, ensuring compliance, consistency, and cost control.
-- Led a team of **7 direct reports across 4 countries**, emphasising co-creation of goals and empathetic leadership.
+- Led a team of **9 direct reports across 4 countries**, emphasising co-creation of goals and empathetic leadership.
 
 ---
 
 ### Standard Chartered Bank (Singapore) — 2016 to 2024
 
 **KPI & Metrics Lead, People & Culture Lead, CPBB Technology (2020 – 2024)**
+- Designed and sourced **mutiple data streams** to develop a 360 view of the health of the retail technology organsiation
 - Created and delivered a **KPI and metrics suite** for senior leadership.
-- Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff.
+- Build **RAG status reports and presentations** covering all areas of the KPI suites, commentay and Paths to Green
+- Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff that covered Diversity & Inclusion, Learning & Development, Culture & Engagament, External Engagements.
 - Partnered on **organisation redesign, manpower planning, and job evaluation**.
 - Implemented **hybrid working strategies** with “Team Agreements”.
 - Designed and ran **large-scale mentoring and coaching programs**.
+- Designed and ran mutiple multi day learning events called **Learning is my day job**
+- Ran a series of information articles on leaders' routes to success titled **Speaking of Success. . .**
 - Provided **consultative support to executives** on workforce and culture strategy.
 - Partnered with **workplace and real estate teams** to align office design with employee culture, learning, and well-being.
 - **Communication events manager** designing and facilitating award ceremonies, celebrations, learning sessions and townhalls
@@ -49,7 +53,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Oversaw workforce planning for **~1,200 staff** across Singapore, London, and Chennai.
 - Introduced **portfolio dashboards** and executive-level reporting.
 - Streamlined **vendor and contractor management processes**.
-- Supported **large-scale transformation programs** including North star design, Ways of Working, organisational Values.
+- Supported **large-scale transformation program roll outs** including North star design, Ways of Working, organisational Values.
 - **Office manager** covering office layout and seating plans as well as fire warden and office event management
 - **Drove People & Culture agenda** by leading learning programmes, engagement events, and recognition initiatives across multi-market teams, embedding a “People Matter” program that improved employee experience, strengthened collaboration, and boosted retention.
 - **Communication events manager** designing and facilitating award ceremonies, celebrations, and townhalls
