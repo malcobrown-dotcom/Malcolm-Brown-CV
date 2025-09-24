@@ -34,10 +34,10 @@ Known for combining **strategic vision with operational excellence**, creating *
 ### Standard Chartered Bank (Singapore) — 2016 to 2024
 
 **KPI & Metrics Lead, People & Culture Lead, CPBB Technology (2020 – 2024)**
-- Designed and sourced **multiple data streams** to develop a 360 view of the health of the retail technology organisiation
+- Designed and sourced **multiple data streams** to develop a 360 view of the health of the retail technology organisation
 - Created and delivered a **KPI and metrics suite** for senior leadership.
 - Built **RAG status reports and presentations** covering all areas of the KPI suites, commentary and Paths to Green
-- Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff that covered Diversity & Inclusion, Learning & Development, Culture & Engageament, External Engagements.
+- Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff that covered Diversity & Inclusion, Learning & Development, Culture & Engagement, External Engagements.
 - Partnered on **organisation redesign, manpower planning, and job evaluation**.
 - Implemented **hybrid working strategies** with “Team Agreements”.
 - Designed and ran **large-scale mentoring and coaching programs**.
@@ -56,7 +56,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Supported **large-scale transformation program roll outs** including North star design, Ways of Working, organisational Values.
 - **Office manager** covering office layout and seating plans as well as fire warden and office event management
 - **Drove People & Culture agenda** by leading learning programmes, engagement events, and recognition initiatives across multi-market teams, embedding a “People Matter” program that improved employee experience, strengthened collaboration, and boosted retention.
-- **Communication events manager** designing and facilitating award ceremonies, celebrations, and townhalls
+- **Communication events manager** designed, hosted and facilitated award ceremonies, celebrations, and townhalls
 - Managed **promotion planning, succession planning and talent review** processes and workshops
 
 ---
@@ -69,8 +69,8 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Produced **management packs for ExCo** on financials, risk, and delivery.
 - Supported **regulatory programs** and infrastructure resilience initiatives.
 - Led **employee engagement and diversity programs** across APAC.
-- **Office manager** covering office layout and seating plans as well as fire warden and office event management
-- **Communication events manager** designing and facilitating award ceremonies, quizzes, treasure hunts, celebrations, learning sessions and townhalls
+- **Office manager** covered office layout and seating plans as well as fire warden and office event management
+- **Communication events manager** designed, hosted and facilitated award ceremonies, quizzes, treasure hunts, celebrations, learning sessions and townhalls
 - Managed **promotion planning, succession planning and talent review** processes and workshops
 
 ---
@@ -212,7 +212,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Developing a mentoring program (Linkedin)
 - Becoming a Thought Leader  (Linkedin)
 - Delivering results with a business focused PMO  (Linkedin)
-- Communciating about culturally sensitive issues (Linkedin)
+- Communicating about culturally sensitive issues (Linkedin)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=malcobrown-dotcom&color=blue)
