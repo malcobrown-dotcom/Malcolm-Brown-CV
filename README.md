@@ -3,7 +3,7 @@
 📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 | [LinkedIn](https://www.linkedin.com/in/malcolm-brown-2531529)
 ---
 
-Accomplished senior leader with 20+ years of experience in **data management and sourcing, finacial management, workforce transformation, vendor management, governance, cultural transformation, process improvement and empathetic leadership**.  
+Accomplished senior leader with 20+ years of experience in **data management and sourcing, financial management, workforce transformation, vendor management, governance, cultural transformation, process improvement and empathetic leadership**.  
 
 Known for combining **strategic vision with operational excellence**, creating **human-centered, future-ready workplaces, teams and processes** that drive performance, culture, and innovation.
 
@@ -34,14 +34,14 @@ Known for combining **strategic vision with operational excellence**, creating *
 ### Standard Chartered Bank (Singapore) — 2016 to 2024
 
 **KPI & Metrics Lead, People & Culture Lead, CPBB Technology (2020 – 2024)**
-- Designed and sourced **mutiple data streams** to develop a 360 view of the health of the retail technology organsiation
+- Designed and sourced **multiple data streams** to develop a 360 view of the health of the retail technology organisiation
 - Created and delivered a **KPI and metrics suite** for senior leadership.
-- Build **RAG status reports and presentations** covering all areas of the KPI suites, commentay and Paths to Green
-- Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff that covered Diversity & Inclusion, Learning & Development, Culture & Engagament, External Engagements.
+- Built **RAG status reports and presentations** covering all areas of the KPI suites, commentary and Paths to Green
+- Built and rolled out 'Four Pillars' a **People, Culture, Learning & Engagement framework** for 4,000+ staff that covered Diversity & Inclusion, Learning & Development, Culture & Engageament, External Engagements.
 - Partnered on **organisation redesign, manpower planning, and job evaluation**.
 - Implemented **hybrid working strategies** with “Team Agreements”.
 - Designed and ran **large-scale mentoring and coaching programs**.
-- Designed and ran mutiple multi day learning events called **Learning is my day job**
+- Designed and ran multiple multi day learning events called **Learning is my day job**
 - Ran a series of information articles on leaders' routes to success titled **Speaking of Success. . .**
 - Provided **consultative support to executives** on workforce and culture strategy.
 - Partnered with **workplace and real estate teams** to align office design with employee culture, learning, and well-being.
