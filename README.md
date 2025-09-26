@@ -89,7 +89,8 @@ Known for combining **strategic vision with operational excellence**, creating *
 **Asia/Australia Human Resources – Manager, Budget & Project Planning (Nov 2007 – Mar 2009, Singapore)**
 - Managed and forecasted the **regional HR budget across 14 cost centres** (~USD 12m+).
 - Directed **headcount reporting, cost allocation, diversity, and survey analysis**.
-- Achieved **2008 budget target**, implemented diversity reporting for 13k+ staff.
+- Achieved **2008 budget target**
+- Implemented **diversity reporting** for 13k+ staff.
 - Negotiated **2009 regional budgets** during restructuring.
 - Developed **time allocation methodology** to charge HR costs to 13 business lines.
 - Managed **promotion planning, succession planning and talent review** processes and workshops
