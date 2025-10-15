@@ -27,6 +27,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Established a **Vendor Management Office (VMO)** and **outcome-based managed services model**.
 - Established a **Vendor Management Governance framework**, simplifying the vendor landscape and strategic alignment.
 - Established a **preferred vendor framework** for contingent workers, ensuring compliance, consistency, and cost control.
+- Managed and led a **Learning and Development** team to upskill accross technology and operations, including in the use of AI tools.
 - Led a team of **9 direct reports across 4 countries**, emphasising co-creation of goals, empathetic leadership, and building high-performing cross-market teams.
 
 ---
