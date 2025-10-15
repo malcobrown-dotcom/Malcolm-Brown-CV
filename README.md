@@ -69,7 +69,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Produced **management packs for ExCo** on financials, risk, and delivery.
 - Supported **regulatory programs** and infrastructure resilience initiatives.
 - Led **employee engagement and diversity programs** across APAC.
-- **Office manager** covered office layout and seating plans as well as fire warden and office event management
+- **Office manager** covered office layout and seating plans, plus mutiple restacks, as well as fire warden and office event management
 - **Communication events manager** designed, hosted and facilitated award ceremonies, quizzes, treasure hunts, celebrations, learning sessions and townhalls
 - Managed **promotion planning, succession planning and talent review** processes and workshops
 
@@ -97,31 +97,40 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 **Membership Travel Services International – Manager, Business Analysis & Strategic Partnerships (Aug 2005 – Nov 2007, London/Burgess Hill)**
 - Owned and managed **Membership Travel MI structure** globally.
+- **Implemented the first travel activity reporting tool** at zero cost by leveraging corporate MI experience.
+- **Designed, developed and managed data feeds** into MI reporting systems.
 - Rolled out MI systems and trained **50+ users** across regions.
 - Integrated **Mexico, Thailand, Taiwan** into global MI database at zero cost.
 - Supported **supplier negotiations and preferred partner programs**.
 - Contributed to **Project Freedom** (Membership Rewards as travel payment).
+- Provided **data and data support** for partner negotiations as well as in-room SME for Amex consumer travel.
 
 **Membership Rewards Global Reporting Finance – Senior Analyst (Oct 2003 – Aug 2005, Burgess Hill)**
-- Built **Excel models** for Membership Rewards liability and value reporting.
+- Built complex **Excel models** for Membership Rewards liability and value reporting.
 - Delivered **customer reporting and financial analysis**.
 - Partnered with Tech teams for **process improvements and data accuracy**.
+- Designed and implemented **SOX compliance** tracking and reporting.
 
 **Innovation & Development – Travel Consultant/Analyst, MI Product Management (Oct 2002 – Oct 2003, London)**
 - Produced **custom travel MI reports** for global customers.
 - Oversaw **UAT, documentation, and process improvements**.
 - Supported Marketing with MI-driven insights.
+- Supported the devlopment of the innovation and devlopment function.
 
 **TSG Sales Planning & Pricing – Research Analyst (Aug 2000 – Oct 2002, Brighton)**
 - Operated **MI REPS reporting helpdesk**.
 - Delivered **UAT, error analysis, and training** for user groups.
 - Managed **system expansion and improvement projects**.
+- **Database Admin** for REPS system.
 
 **Corporate Travel Operations – European Travel MI Consultant (Aug 1999 – Aug 2000, Brighton)**
-- Database admin, MI reporting, and customer support for European travel operations.
+- **Database admin, MI reporting, and customer support** for European travel operations.
+- **Built and delivered** a report tracking and productivity database to replace a non-compliant system.
+- **Travel data SME**.
 
 **Travel MI Operations – MI Officer, Europe (Aug 1998 – Aug 1999, Burgess Hill)**
 - Delivered **MI reporting and analysis** across European travel operations.
+- **Travel data SME**.
 
 ---
 
