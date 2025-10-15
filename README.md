@@ -27,7 +27,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Established a **Vendor Management Office (VMO)** and **outcome-based managed services model**.
 - Established a **Vendor Management Governance framework**, simplifying the vendor landscape and strategic alignment.
 - Established a **preferred vendor framework** for contingent workers, ensuring compliance, consistency, and cost control.
-- Managed and led a **Learning and Development** team to upskill accross technology and operations, including in the use of AI tools.
+- Managed and led a **Learning and Development** team to upskill across technology and operations, including in the use of AI tools.
 - Led a team of **9 direct reports across 4 countries**, emphasising co-creation of goals, empathetic leadership, and building high-performing cross-market teams.
 
 ---
@@ -70,7 +70,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Produced **management packs for ExCo** on financials, risk, and delivery.
 - Supported **regulatory programs** and infrastructure resilience initiatives.
 - Led **employee engagement and diversity programs** across APAC.
-- **Office manager** covered office layout and seating plans, plus mutiple restacks, as well as fire warden and office event management
+- **Office manager** covered office layout and seating plans, plus multiple restacks, as well as fire warden and office event management
 - **Communication events manager** designed, hosted and facilitated award ceremonies, quizzes, treasure hunts, celebrations, learning sessions and townhalls
 - Managed **promotion planning, succession planning and talent review** processes and workshops
 
@@ -116,7 +116,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Produced **custom travel MI reports** for global customers.
 - Oversaw **UAT, documentation, and process improvements**.
 - Supported Marketing with MI-driven insights.
-- Supported the devlopment of the innovation and devlopment function.
+- Supported the development of the innovation and development function.
 
 **TSG Sales Planning & Pricing – Research Analyst (Aug 2000 – Oct 2002, Brighton)**
 - Operated **MI REPS reporting helpdesk**.
