@@ -34,7 +34,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 ### Standard Chartered Bank (Singapore) — 2016 to 2024
 
-**KPI & Metrics Lead, People & Culture Lead, CPBB Technology (2020 – 2024)**
+**KPI & Metrics Lead, People & Culture Lead, CPBB Technology (Singapore) - Apr 2020 – Jan 2024**
 - Designed and sourced **multiple data streams** to develop a 360 view of the health of the retail technology organisation
 - Created and delivered a KPI and metrics suite for senior leadership, adopted across CPBB Technology to drive transparency and accountability for a 4,000+ person organisation.
 - Built **RAG status reports and presentations** covering all areas of the KPI suites, commentary and Paths to Green
@@ -48,7 +48,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Partnered with **workplace and real estate teams** to align office design with employee culture, learning, and well-being.
 - **Communication events manager** designing and facilitating award ceremonies, celebrations, learning sessions and townhalls
 
-**Head of Business Planning & Strategy, Head of PMO, T&I — Financial Markets (2016 – 2020)**
+**Head of Business Planning & Strategy, Head of PMO, T&I — Financial Markets (Singapore) - May 2016 – Apr 2020**
 - Directed **USD 60M+ portfolio governance** across projects and BAU.
 - Built and managed a **PMO team of 5 specialists** supporting BAU and Change cost analysis, tracking and implementation.
 - Oversaw workforce planning for **~1,200 staff** across Singapore, London, and Chennai.
@@ -62,7 +62,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 ---
 
-### Bank of America Merrill Lynch (Singapore) — 2010 to 2016
+### Bank of America Merrill Lynch (Singapore) — May 2010 - May 2016
 **VP, Business Manager, FICC Technology (APAC & Global Emerging Markets)**
 - Managed **USD 40M annual technology budget** and **USD 80M application cost base**.
 - Re-designed and rebalanced **Cost of Application reporting and allocations**.
@@ -76,7 +76,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 ---
 
-### Royal Bank of Scotland (Singapore) — 2009 to 2010
+### Royal Bank of Scotland (Singapore) — Nov 2009 - Apr 2010
 **Asia MI Contractor**
 - Produced **management information reporting and analytics** across Asia.
 - Delivered financial packs to support **workforce and portfolio planning**.
@@ -87,7 +87,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 
 ### American Express (Singapore & UK) — 1998 to 2009
 
-**Asia/Australia Human Resources – Manager, Budget & Project Planning (Nov 2007 – Mar 2009, Singapore)**
+###**Asia/Australia Human Resources – Manager, Budget & Project Planning (Singapore) - Nov 2007 – Mar 2009**
 - Managed and forecasted the **regional HR budget across 14 cost centres** (~USD 12m+).
 - Directed **headcount reporting, cost allocation, diversity, and survey analysis**.
 - Achieved **2008 budget target**
@@ -96,7 +96,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Developed **time allocation methodology** to charge HR costs to 13 business lines.
 - Managed **promotion planning, succession planning and talent review** processes and workshops
 
-**Membership Travel Services International – Manager, Business Analysis & Strategic Partnerships (Aug 2005 – Nov 2007, London/Burgess Hill)**
+**Membership Travel Services International – Manager, Business Analysis & Strategic Partnerships (London/Burgess Hill) - Aug 2005 – Nov 2007 **
 - Owned and managed **Membership Travel MI structure** globally.
 - **Implemented the first travel activity reporting tool** at zero cost by leveraging corporate MI experience.
 - **Designed, developed and managed data feeds** into MI reporting systems.
@@ -106,30 +106,30 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Contributed to **Project Freedom** (Membership Rewards as travel payment).
 - Provided **data and data support** for partner negotiations as well as in-room SME for Amex consumer travel.
 
-**Membership Rewards Global Reporting Finance – Senior Analyst (Oct 2003 – Aug 2005, Burgess Hill)**
+**Membership Rewards Global Reporting Finance – Senior Analyst (Burgess Hill) - Oct 2003 – Aug 2005 **
 - Built complex **Excel models** for Membership Rewards liability and value reporting.
 - Delivered **customer reporting and financial analysis**.
 - Partnered with Tech teams for **process improvements and data accuracy**.
 - Designed and implemented **SOX compliance** tracking and reporting.
 
-**Innovation & Development – Travel Consultant/Analyst, MI Product Management (Oct 2002 – Oct 2003, London)**
+**Innovation & Development – Travel Consultant/Analyst, MI Product Management (London) - Oct 2002 – Oct 2003**
 - Produced **custom travel MI reports** for global customers.
 - Oversaw **UAT, documentation, and process improvements**.
 - Supported Marketing with MI-driven insights.
 - Supported the devlopment of the innovation and devlopment function.
 
-**TSG Sales Planning & Pricing – Research Analyst (Aug 2000 – Oct 2002, Brighton)**
+**TSG Sales Planning & Pricing – Research Analyst (Brighton) - Aug 2000 – Oct 2002**
 - Operated **MI REPS reporting helpdesk**.
 - Delivered **UAT, error analysis, and training** for user groups.
 - Managed **system expansion and improvement projects**.
 - **Database Admin** for REPS system.
 
-**Corporate Travel Operations – European Travel MI Consultant (Aug 1999 – Aug 2000, Brighton)**
+**Corporate Travel Operations – European Travel MI Consultant (Brighton) - Aug 1999 – Aug 2000**
 - **Database admin, MI reporting, and customer support** for European travel operations.
 - **Built and delivered** a report tracking and productivity database to replace a non-compliant system.
 - **Travel data SME**.
 
-**Travel MI Operations – MI Officer, Europe (Aug 1998 – Aug 1999, Burgess Hill)**
+**Travel MI Operations – MI Officer, Europe (Burgess Hill) - Aug 1998 – Aug 1999 **
 - Delivered **MI reporting and analysis** across European travel operations.
 - **Travel data SME**.
 
