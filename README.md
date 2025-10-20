@@ -118,7 +118,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 - Supported Marketing with MI-driven insights.
 - Supported the devlopment of the innovation and devlopment function.
 
-**TSG Sales Planning & Pricing – Research Analyst (Brighton) - Aug 2000 – Oct 2002**
+**Sales Planning & Pricing Technology – Research Analyst (Brighton) - Aug 2000 – Oct 2002**
 - Operated **MI REPS reporting helpdesk**.
 - Delivered **UAT, error analysis, and training** for user groups.
 - Managed **system expansion and improvement projects**.
