@@ -199,7 +199,7 @@ Known for combining **strategic vision with operational excellence**, creating *
 ## 🎓 Education & Certifications
 
 **Formal Education**
-- **MBA in Strategic Management** – Apsley University (2024)  
+- **MBA in Strategic Management** – Apsley Business School (2024)  
   *Dissertation: AI and the future of People & Culture in Financial Services Technology*
 - **OUBS Management Strategy MBA Module** – May 2006 – Nov 2006 
 - **OUBS Post-Graduate Diploma of Management** – May 2005 – Apr 2006 
