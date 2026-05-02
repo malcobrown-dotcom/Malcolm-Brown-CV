@@ -19,8 +19,9 @@ Known for combining **strategic vision with operational excellence**, creating *
 ## 🏢 Career Roles
 
 ### Prudential (Singapore) — Aug 2024 to Present
-**Head of Business Management, Technology COO Office**
-- Direct support for **COO, CIO, and CTOO** in driving technology enablement programs.
+**Head of Business Management, T&O Service Delivery Office**
+- Direct support for **COO, CIO, and CTOO** in driving technology and Operations enablement programs.
+- Implemented workforce mapping, tracking and governance accross the technology enterprise
 - Developed the **first enterprise-wide workforce plan**, covering location strategy, central vs. local responsibilities, and future skills.
 - Created a **total cost of technology model and process**, consolidating workforce effort, vendor, cloud, and third-party allocations.
 - Launched **Technology APEX efficiency framework**, delivering **USD 30M+ in 8 months** across 8 optimisation pillars.
