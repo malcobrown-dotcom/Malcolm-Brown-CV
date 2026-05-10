@@ -3,9 +3,13 @@
 📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 | [LinkedIn](https://www.linkedin.com/in/malcolm-brown-2531529)
 ---
 
-Accomplished senior leader with 20+ years of experience in **data management and sourcing, financial management, workforce transformation, vendor management, governance, cultural transformation, process improvement and empathetic leadership**.  
+Accomplished senior technology business management leader with 20+ years of experience across financial services, spanning data sourcing and management, financial governance, workforce transformation, vendor management, operating model design, process improvement, cultural engagement, and empathetic people leadership.
 
-Known for combining **strategic vision with operational excellence**, creating **human-centered, future-ready workplaces, teams and processes** that drive performance, culture, and innovation.
+Known for combining strategic vision with practical execution — anticipating future business needs, building scalable processes before they become urgent, sourcing new data to improve decision-making, and implementing technology-enabled solutions that make complex organisations more transparent, efficient, and easier to run.
+
+I bring a continuous-improvement mindset to everything I do, using data, automation, AI, and workflow redesign to reduce manual effort, strengthen governance, and free teams to focus on higher-value work. I actively use AI in my day-to-day work to accelerate repetitive tasks, improve analysis, generate insight, and explore smarter ways of operating.
+
+Beyond process and governance, I am a strong people leader who enjoys building capability, mentoring and coaching others, and creating grassroots engagement campaigns that connect people across functions, locations, and leadership layers. My value lies in bridging strategy, operations, people, data, and technology — creating human-centred, future-ready teams, workplaces, and processes that improve performance, culture, and resilience.
 
 
 
