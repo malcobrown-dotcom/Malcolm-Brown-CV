@@ -1,52 +1,41 @@
-Malcolm Brown — Career Portfolio
-📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 | LinkedIn
+📍 Singapore | 📧 malcobrown@gmail.com | 📱 +65 8288-1557 | [LinkedIn](https://www.linkedin.com/in/malcolm-brown-2531529)
 ---
-Senior Technology Business Management, PMO & Transformation Leader
-Senior technology business management, PMO and transformation leader with more than 25 years of experience across financial services, insurance and global technology organisations. Expertise spans strategy execution, portfolio and programme governance, workforce and organisation planning, financial management, vendor governance, operating model design, continuous process improvement, people and culture, learning and capability development, and executive decision support.
-Track record of translating complex strategic priorities into clear plans, governance structures, delivery roadmaps, performance measures and measurable outcomes. Experienced in building and leading PMO capabilities, managing large project and BAU portfolios, strengthening execution discipline, resolving delivery risks and dependencies, and creating reporting frameworks that give senior leaders clear visibility of progress, cost, value and organisational performance.
-A practical transformation leader with experience designing and implementing new operating models, workforce strategies, cost and productivity frameworks, vendor models, governance processes and technology-enabled ways of working. Recent achievements include delivering more than USD 30M in technology efficiencies, creating an enterprise workforce plan across 3,800+ employees and 14+ locations, establishing technology cost and vendor governance models, and developing KPI and organisational-health frameworks for organisations of up to 4,000 employees.
-Brings a strong continuous-improvement mindset, using data, process redesign, automation and AI to reduce manual effort, improve decision quality, strengthen controls and create scalable, sustainable operations. Experience includes total cost of technology, TCOA, cloud cost, cost-to-serve, portfolio reporting, workforce analytics and executive-level performance insights.
-Also brings deep experience in people, culture and capability building. Has designed and delivered enterprise learning, mentoring, coaching, engagement, leadership communication and future-skills programmes, while advising senior leaders on workforce strategy, organisation design, succession, talent, hybrid working and employee experience. Known for empathetic leadership, strong stakeholder relationships and the ability to bring people together across functions, locations and leadership levels.
-A practical builder and adopter of AI-enabled solutions, including bespoke applications, reusable agents, specialist personas and structured prompt systems. Combines business domain expertise with AI-assisted product design, testing and iterative development to create tools and workflows tailored to specific user and organisational outcomes.
----
-📑 Quick Navigation
-Career Impact at a Glance
-AI-Enabled Applications, Agents & Workflows
-Career Experience
-Core Skills & Capabilities
-Education & Professional Development
-About Me
----
-📊 Career Impact at a Glance
-Delivered more than USD 30M in technology efficiencies within eight months through an eight-pillar Technology APEX programme.
-Developed an enterprise workforce plan covering approximately 3,800 employees across 14+ locations.
-Created KPI, metrics and organisational-health frameworks for a 4,000+ person retail technology organisation.
-Directed governance across a USD 60M+ project and BAU portfolio.
-Managed a USD 40M annual technology budget and an USD 80M application cost base.
-Established technology cost, cloud cost, TCOA, cost-to-serve and productivity methodologies across banking and insurance technology environments.
-Established a Vendor Management Office, preferred-vendor arrangements and outcome-based managed-services governance.
-Built and led regional teams, including nine direct reports across four countries.
-Designed and delivered enterprise workforce, learning, mentoring, culture, engagement and future-skills programmes.
-Built bespoke AI-enabled applications, agents, personas and structured workflows for specific professional and personal outcomes.
----
-🏢 Career Experience
-Prudential, Singapore — Aug 2024 to Present
-Head of Business Management, T&O Service Delivery Office
-Partnered directly with senior Technology and Operations leadership, including the COO, CIO and CTOO, to strengthen strategy execution, workforce planning, cost transparency, vendor governance, organisational capability and operating discipline.
-Selected impact: USD 30M+ efficiencies delivered in eight months | Enterprise workforce plan across 3,800+ employees and 14+ locations | Technology, cloud and vendor cost transparency | VMO and managed-services governance
-Developed the first enterprise-wide Technology workforce plan, covering approximately 3,800 employees across 14+ locations and addressing location strategy, central versus local responsibilities, future skills, access to talent and evolving headcount requirements.
-Established workforce mapping, tracking and governance across the technology organisation, improving leadership visibility of roles, reporting lines, locations, skills, sourcing models and organisational structure.
-Designed a total cost of technology model and planning process, bringing together workforce effort, application costs, vendors, cloud, third-party services and allocations into a consolidated leadership view.
-Built detailed cloud cost and structural views, identifying cost drivers, allocation challenges and opportunities for optimisation and improved accountability.
-Developed TCO, TCOA, cost-to-serve, productivity and performance measures to support better decisions on resource deployment, sourcing, investment and operational efficiency.
-Launched the Technology APEX efficiency framework, delivering more than USD 30M in savings within eight months across eight optimisation pillars.
-Established a Vendor Management Office and governance framework, improving strategic oversight, simplifying the vendor landscape and strengthening supplier performance, risk and commercial discipline.
-Designed and implemented an outcome-based managed-services approach to improve accountability for delivery, service quality and value.
-Established a preferred-vendor framework for contingent workers, improving compliance, consistency, cost control and access to capability.
-Led the Technology and Operations Learning & Development team, aligning capability-building activity with business priorities, future skills and the practical adoption of AI tools.
-Supported the development of an AI-enabled workforce strategy, considering how automation, new skills and changing work practices could affect future capability, operating models and workforce demand.
-Led nine direct reports across four countries, using co-created objectives, clear accountability, coaching and empathetic leadership to build a collaborative, high-performing team.
 
+Accomplished senior leader with 20+ years of experience in **data management and sourcing, financial management, workforce transformation, vendor management, governance, cultural transformation, process improvement and empathetic leadership**.  
+Accomplished senior technology business management leader with 20+ years of experience across financial services, spanning data sourcing and management, financial governance, workforce transformation, vendor management, operating model design, process improvement, cultural engagement, and empathetic people leadership.
+
+Known for combining **strategic vision with operational excellence**, creating **human-centered, future-ready workplaces, teams and processes** that drive performance, culture, and innovation.
+Known for combining strategic vision with practical execution — anticipating future business needs, building scalable processes before they become urgent, sourcing new data to improve decision-making, and implementing technology-enabled solutions that make complex organisations more transparent, efficient, and easier to run.
+
+I bring a continuous-improvement mindset to everything I do, using data, automation, AI, and workflow redesign to reduce manual effort, strengthen governance, and free teams to focus on higher-value work. I actively use AI in my day-to-day work to accelerate repetitive tasks, improve analysis, generate insight, and explore smarter ways of operating.
+
+Beyond process and governance, I am a strong people leader who enjoys building capability, mentoring and coaching others, and creating grassroots engagement campaigns that connect people across functions, locations, and leadership layers. My value lies in bridging strategy, operations, people, data, and technology — creating human-centred, future-ready teams, workplaces, and processes that improve performance, culture, and resilience.
+
+
+
+## 📑 Quick Navigation
+- [Career Roles](#-career-roles)  
+- [Skills & Competencies](#-skills--competencies)  
+- [Education & Certifications](#-education--certifications)  
+- [About Me](#about-me)
+
+
+## 🏢 Career Roles
+
+### Prudential (Singapore) — Aug 2024 to Present
+**Head of Business Management, T&O Service Delivery Office**
+- Direct support for **COO, CIO, and CTOO** in driving technology and Operations enablement programs.
+- Implemented workforce mapping, tracking and governance accross the technology enterprise
+- Developed the **first enterprise-wide workforce plan**, covering location strategy, central vs. local responsibilities, and future skills.
+- Created a **total cost of technology model and process**, consolidating workforce effort, vendor, cloud, and third-party allocations.
+- Launched **Technology APEX efficiency framework**, delivering **USD 30M+ in 8 months** across 8 optimisation pillars.
+- Established a **Vendor Management Office (VMO)** and **outcome-based managed services model**.
+- Established a **Vendor Management Governance framework**, simplifying the vendor landscape and strategic alignment.
+- Established a **preferred vendor framework** for contingent workers, ensuring compliance, consistency, and cost control.
+- Managed and led a **Learning and Development** team to upskill accross technology and operations, including in the use of AI tools.
+- Led a team of **9 direct reports across 4 countries**, emphasising co-creation of goals, empathetic leadership, and building high-performing cross-market teams.
+
+---
 
 ### Standard Chartered Bank (Singapore) — 2016 to 2024
 
@@ -216,7 +205,7 @@ Led nine direct reports across four countries, using co-created objectives, clea
 
 **Formal Education**
 - **MBA in Strategic Management** – Apsley Business School (2024)  
-  *Dissertation: AI and the future of People & Culture in Financial Services Technology*
+*Dissertation: AI and the future of People & Culture in Financial Services Technology*
 - **OUBS Management Strategy MBA Module** – May 2006 – Nov 2006 
 - **OUBS Post-Graduate Diploma of Management** – May 2005 – Apr 2006 
 - **OUBS Professional Certificate of Management** – May 2004 – Apr 2005 
