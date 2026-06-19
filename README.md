@@ -91,6 +91,7 @@ Partnered directly with senior Technology and Operations leadership, including t
 * Led the Technology and Operations Learning \& Development team, aligning capability-building activity with business priorities, future skills and the practical adoption of AI tools.
 * Supported the development of an AI-enabled workforce strategy, considering how automation, new skills and changing work practices could affect future capability, operating models and workforce demand.
 * Led **nine direct reports across four countries**, using co-created objectives, clear accountability, coaching and empathetic leadership to build a collaborative, high-performing team.
+* Supported the Technology global team through a Groupwide Audit and supported other Audit requirements.
 
 \---
 
