@@ -381,7 +381,7 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Served as the global “data guru” and a member of the global management team for a premium, high-end consumer-travel organisation, owning its data, reporting, analytics and management-information structure.
 * Was allocated approximately **USD 1M** to build a bespoke travel-activity MI tool.
 * Challenged the assumption that a new build was necessary and adapted an existing Corporate Travel solution at **zero additional cost**.
-* Worked with Technology to capture consumer activity through the existing platform and added markets and data structures not present in the corporate implementation.
+* Worked with Technology to capture consumer activity through an Corporate existing platform and added markets and data structures not present in the corporate implementation.
 * Rolled out the solution globally and trained more than **50 users**.
 * Integrated Mexico, Thailand and Taiwan into the global MI database at zero additional cost.
 * Designed and managed data feeds, reporting structures and analytical outputs.
@@ -396,7 +396,7 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Built and maintained complex Excel models used to calculate Membership Rewards liabilities and support value and customer analysis.
 * Acted as a key point of contact between Finance, Technology and technology support, improving the financial models, reporting accuracy and source-system inputs.
 * Produced summary and detailed customer reporting and analysis alongside liability, activity and value models.
-* Helped accelerate reporting readiness from **workday 21 to workday 14**.
+* Accelerated reporting readiness from **workday 21 to workday 14**.
 * Designed the SOX control approach for Membership Rewards liabilities, defining the control objective, evidence, testing and reporting required.
 * Implemented SOX compliance tracking and reporting when the new regulatory requirements became mandatory.
 
@@ -435,10 +435,6 @@ American Express provided a progressive sequence of roles spanning travel manage
 <a id="core-skills-and-capabilities"></a>
 
 ## 🎯 Core Skills \& Capabilities
-
-This is intentionally a broad evidence library rather than a short CV skills list. Future CVs should select and prioritise the capabilities most relevant to the target role rather than reproduce every item.
-
-
 
 ### Problem Solving, Diagnosis \& Solution Design
 
@@ -652,11 +648,4 @@ I am an actively involved father and value the patience, empathy, perspective an
 
 I follow politics, geopolitics, technology, AI, workforce trends and investment markets closely. I read widely across political, technology and sporting biographies, as well as science fiction, fantasy, crime and historical fiction. I also continue to experiment with AI agents, specialist personas, prompt engineering and practical applications as part of my personal learning.
 
-
-
-\---
-
-## Evidence and Version-Control Note
-
-This portfolio consolidates information from current career records, detailed role discussions and historical CVs dating back to 2009. Where older documents contained different figures because the scope changed over time, the portfolio distinguishes the period or level of responsibility rather than combining them. Examples include the Bank of America remit expanding from approximately 150 APAC employees across eight cities to more than 1,000 employees across 10+ locations, and the separation of direct budget ownership from broader analytical or coordination responsibility. Historical figures that may overlap are not added together. Future CVs should select only the evidence relevant to the target role and preserve these distinctions.
 
