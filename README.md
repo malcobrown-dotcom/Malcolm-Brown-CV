@@ -68,7 +68,7 @@ I use generative AI as a practical design and delivery tool, combining business 
 
 ### Prudential, Singapore — Aug 2024 to Present
 
-**Head of Business Management, T\&O Service Delivery Office**
+**Head of Business Management, T&O Service Delivery Office**
 
 Partnered directly with senior Technology and Operations leadership, including the COO, CIO and CTOO, to strengthen strategy execution, workforce planning, cost transparency, vendor governance, organisational capability and operating discipline.
 
@@ -92,7 +92,7 @@ Partnered directly with senior Technology and Operations leadership, including t
 
 ### Standard Chartered Bank, Singapore — 2016 to 2024
 
-#### KPI \& Metrics Lead / People \& Culture Lead, CPBB Technology — Apr 2020 to Jan 2024
+#### KPI & Metrics Lead / People & Culture Lead, CPBB Technology — Apr 2020 to Jan 2024
 
 Led performance insight, workforce, culture, capability and executive reporting activity across a **4,000+ person retail technology organisation**.
 
@@ -110,7 +110,7 @@ Led performance insight, workforce, culture, capability and executive reporting 
 * Partnered with workplace and real-estate teams to align office design with collaboration, learning, culture and well-being.
 * Designed and facilitated leadership communications, town halls, learning sessions, recognition events and award programmes.
 
-#### Head of Business Planning \& Strategy / Head of PMO, T\&I — Financial Markets — May 2016 to Apr 2020
+#### Head of Business Planning & Strategy / Head of PMO, T&I — Financial Markets — May 2016 to Apr 2020
 
 Led business planning, PMO, portfolio governance, workforce planning and transformation support across Financial Markets Technology.
 
@@ -129,7 +129,7 @@ Led business planning, PMO, portfolio governance, workforce planning and transfo
 
 ### Bank of America Merrill Lynch, Singapore — May 2010 to May 2016
 
-**VP, Business Manager, FICC Technology — APAC \& Global Emerging Markets**
+**VP, Business Manager, FICC Technology — APAC & Global Emerging Markets**
 
 Led regional technology business management across financial governance, workforce planning, executive reporting, operating support and organisational initiatives.
 
@@ -158,7 +158,7 @@ Led regional technology business management across financial governance, workfor
 
 ### American Express, Singapore \& UK — 1998 to 2009
 
-#### Asia/Australia Human Resources — Manager, Budget \& Project Planning — Nov 2007 to Mar 2009
+#### Asia/Australia Human Resources — Manager, Budget & Project Planning — Nov 2007 to Mar 2009
 
 * Managed and forecasted a regional HR budget across **14 cost centres totalling approximately USD 12M+**.
 * Directed headcount reporting, cost allocation, employee-survey and workforce analysis.
@@ -168,7 +168,7 @@ Led regional technology business management across financial governance, workfor
 * Developed a time-allocation methodology to charge HR costs across 13 business lines.
 * Supported promotion planning, succession planning and talent-review processes and workshops.
 
-#### Membership Travel Services International — Manager, Business Analysis \& Strategic Partnerships — Aug 2005 to Nov 2007
+#### Membership Travel Services International — Manager, Business Analysis & Strategic Partnerships — Aug 2005 to Nov 2007
 
 * Owned and managed the global Membership Travel MI structure.
 * Implemented the first travel-activity reporting tool at zero additional cost by leveraging existing corporate MI capability.
@@ -215,9 +215,9 @@ Led regional technology business management across financial governance, workfor
 
 <a id="core-skills-and-capabilities"></a>
 
-## 🎯 Core Skills \& Capabilities
+## 🎯 Core Skills & Capabilities
 
-### Executive Leadership \& Business Management
+### Executive Leadership & Business Management
 
 * COO, CIO and CTOO office support
 * Strategy execution and executive decision support
@@ -226,7 +226,17 @@ Led regional technology business management across financial governance, workfor
 * Executive communication, presentations and storytelling
 * Trusted-advisor support in complex, matrixed organisations
 
-### PMO, Transformation \& Continuous Improvement
+### Problem Solving, Diagnosis & Solution Design
+* Complex problem diagnosis and root-cause analysis
+* Identifying and closing data, process and control gaps
+* Designing practical interim solutions before standardising or automating
+* Translating fragmented information into clear decision support
+* Adapting proven practices across teams, functions and markets
+* Building cross-functional consensus and stakeholder commitment
+* Influencing without authority in complex matrix organisations
+* Converting ambiguous problems into structured plans and measurable outcomes
+
+### PMO, Transformation & Continuous Improvement
 
 * PMO and portfolio leadership
 * Programme governance, prioritisation and delivery oversight
@@ -235,10 +245,12 @@ Led regional technology business management across financial governance, workfor
 * Operating-model transformation
 * Process redesign, standardisation and workflow improvement
 * Regulatory and risk-driven programme support
-* Benefits, value and performance tracking
+* Benefits realisation, value tracking and performance management
 * Six Sigma process-improvement methods
+* Audit support, control remediation and closure of findings
+* Root-cause analysis and corrective-action planning
 
-### Workforce \& Organisation Strategy
+### Workforce & Organisation Strategy
 
 * Strategic workforce planning
 * Headcount, location and sourcing strategy
@@ -248,7 +260,7 @@ Led regional technology business management across financial governance, workfor
 * Succession, talent and promotion planning
 * Workforce analytics and scenario-based decision support
 
-### Financial, Cost \& Performance Management
+### Financial, Cost & Performance Management
 
 * Technology finance and business management
 * Total cost of technology and TCOA
@@ -259,7 +271,7 @@ Led regional technology business management across financial governance, workfor
 * Cost-efficiency programmes
 * KPI, scorecard and executive-performance frameworks
 
-### Vendor, Sourcing \& Partnerships
+### Vendor, Sourcing & Partnerships
 
 * Vendor Management Office design
 * Vendor governance and convergence
@@ -269,7 +281,7 @@ Led regional technology business management across financial governance, workfor
 * Supplier-performance oversight
 * Data and insight supporting supplier negotiations
 
-### People, Culture, Learning \& Capability
+### People, Culture, Learning & Capability
 
 * Learning and capability strategy
 * AI-tool adoption and upskilling
@@ -280,26 +292,26 @@ Led regional technology business management across financial governance, workfor
 * Employee experience, recognition and well-being
 * Large-scale learning events and town halls
 
-### AI \& Digital Innovation
+### AI-Enabled Problem Solving & Workflow Design
 
 * AI-enabled application and workflow design
-* Agent and specialist-persona development
+* Agent and specialist-persona design
 * Prompt engineering and structured prompt systems
 * AI-assisted prototyping, testing and iteration
 * Reusable prompt libraries and workflow templates
-* Human-centred design
+* User-centred workflow and solution design
 * Practical application of AI to research, analysis and productivity
 
-### Data, Analytics \& Technology
+### Data, Analytics & Technology
 
 * Advanced Excel modelling and MI reporting
 * Data sourcing, consolidation and quality improvement
 * Executive dashboards and RAG reporting
-* Database administration and MI systems
+* MI systems, data administration and reporting solutions
 * UAT, testing, troubleshooting and error analysis
 * Data analysis across HR, Finance, Technology, Travel and Rewards
 
-### Workplace \& Employee Experience
+### Workplace & Employee Experience
 
 * Workplace strategy and space planning
 * Office relocations, redesigns and restacks
@@ -311,7 +323,7 @@ Led regional technology business management across financial governance, workfor
 
 <a id="education-and-professional-development"></a>
 
-## 🎓 Education \& Professional Development
+## 🎓 Education & Professional Development
 
 ### Formal Education
 
