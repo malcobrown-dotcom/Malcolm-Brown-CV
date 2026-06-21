@@ -6,17 +6,13 @@
 
 ## Senior Technology Business Management, PMO \& Transformation Leader
 
-Senior technology business management, PMO and transformation leader with more than 25 years of experience across financial services, insurance and global technology organisations. Expertise spans strategy execution, portfolio and programme governance, workforce and organisation planning, financial management, vendor governance, operating model design, continuous process improvement, people and culture, learning and capability development, and executive decision support.
+I am a senior technology business management, PMO, people and culture, and transformation leader with more than 25 years of experience across financial services, insurance and global technology organisations.
 
-Track record of translating complex strategic priorities into clear plans, governance structures, delivery roadmaps, performance measures and measurable outcomes. Experienced in building and leading PMO capabilities, managing large project and BAU portfolios, strengthening execution discipline, resolving delivery risks and dependencies, and creating reporting frameworks that give senior leaders clear visibility of progress, cost, value and organisational performance.
+At the heart of my work is problem-solving. I am most effective when a process is fragmented, data is missing, responsibilities are unclear, or an organisation knows something needs to change but has not yet worked out how to make it happen.
 
-A practical transformation leader with experience designing and implementing new operating models, workforce strategies, cost and productivity frameworks, vendor models, governance processes and technology-enabled ways of working. Recent achievements include delivering more than **USD 30M in technology efficiencies**, creating an enterprise workforce plan across **3,800+ employees and 14+ locations**, establishing technology cost and vendor governance models, and developing KPI and organisational-health frameworks for organisations of up to **4,000 employees**.
+I start by understanding the real problem rather than accepting the existing process. I bring together incomplete data, operational knowledge and different stakeholder perspectives to create a clear view of what is happening and what needs to change. Where necessary, I build a practical manual solution first, prove that it works, and then standardise, simplify or automate it using technology.
 
-Brings a strong continuous-improvement mindset, using data, process redesign, automation and AI to reduce manual effort, improve decision quality, strengthen controls and create scalable, sustainable operations. Experience includes total cost of technology, TCOA, cloud cost, cost-to-serve, portfolio reporting, workforce analytics and executive-level performance insights.
-
-Also brings deep experience in people, culture and capability building. Has designed and delivered enterprise learning, mentoring, coaching, engagement, leadership communication and future-skills programmes, while advising senior leaders on workforce strategy, organisation design, succession, talent, hybrid working and employee experience. Known for empathetic leadership, strong stakeholder relationships and the ability to bring people together across functions, locations and leadership levels.
-
-A practical builder and adopter of AI-enabled solutions, including bespoke applications, reusable agents, specialist personas and structured prompt systems. Combines business domain expertise with AI-assisted product design, testing and iterative development to create tools and workflows tailored to specific user and organisational outcomes.
+My approach combines analysis, persistence, curiosity and relationships. I identify useful ideas and practices from other teams, industries or parts of an organisation, adapt them to the new context and build the consensus needed to implement them. I am comfortable challenging established ways of working, but I do so by involving people, listening carefully and bringing stakeholders with me.
 
 \---
 
@@ -60,10 +56,9 @@ I use generative AI as a practical design and delivery tool, combining business 
 * Created structured prompt frameworks incorporating context, constraints, source-of-truth rules, evaluation criteria, output formats and quality-control checks.
 * Designed multi-stage AI workflows covering research, assessment, drafting, review, verification and final output.
 * Used persona design to produce more consistent specialist behaviour across recruitment, career advisory, investment research, travel planning and business analysis use cases.
-* Applied AI-assisted prototyping, testing and troubleshooting to build and improve applications without positioning myself as a traditional software engineer.
 * Built reusable prompt libraries and templates to improve consistency, reduce repeated effort and make complex workflows easier to use.
 * Led AI-tool adoption and capability-building activity across Technology and Operations teams.
-* Completed an MBA dissertation examining how AI may reshape People \& Culture in financial-services technology organisations.
+* Completed an MBA dissertation examining how AI may reshape People & Culture in financial-services technology organisations.
 
 \---
 
