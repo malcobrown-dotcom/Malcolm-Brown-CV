@@ -56,7 +56,6 @@ My career has followed a consistent pattern:
 * Delivered more than **USD 30M in technology efficiencies within eight months** through an eight-pillar Technology APEX programme, with each initiative assigned a baseline, future state, owner and tracked outcome.
 * Led PMO and governance across a **USD 60M+ Financial Markets project portfolio and a USD 100M+ BAU portfolio**, creating the financial, workforce, delivery and executive controls required to manage both change and run activity.
 * Built a specialist PMO team of **five** and introduced the governance, dashboards and controls required to manage **44 projects**, cost, workforce, delivery, risks and dependencies.
-* Designed and drove the amalgamation of regional technology teams under a single FICC umbrella and contributed to a formal Business Management scope defining the regional COO remit.
 * Supported enterprise change including agile enablement, North Star strategy design, values deployment, regulatory programmes, infrastructure resilience and operating-model transformation.
 
 ### Workforce, Organisation \& Capability
@@ -102,21 +101,29 @@ My career has followed a consistent pattern:
 
 These examples show the recurring pattern behind my career: identify what is unclear or broken, build enough structure to regain control, improve the underlying process, and then automate or scale the solution.
 
-### Replacing a Y2K risk with a better reporting platform
+### Building the first reliable enterprise Technology workforce and cost views
 
-In American Express Corporate Travel Operations, the database used to track European MI delivery was not Y2K compliant. Rather than allow a predictable operational failure, I taught myself Microsoft Access, built a replacement database over several weekends and created a Crystal Reports front end. The solution preserved continuity and improved the accuracy of reporting on MI delivery and team productivity.
+At Prudential, fragmented Workday, contingent-worker, managed-service, cost-centre, cloud, vendor and Finance data meant leaders could not reliably see the Technology workforce or total cost. I reconciled the workforce manually with each business and central pillar, created the first accurate 3,800-person view, built a future-state workforce model, then designed a manual total cost of technology model across labour, cloud, infrastructure, managed services, vendors and applications. After four refreshes proved the approach, I began the transition towards stronger automated data and allocation through IBM Apptio.
 
-### Reducing helpdesk demand by fixing the underlying technology
+### Turning fragmented measures into a 360-degree performance system
 
-In my first Technology role, I was simultaneously the data administrator, business analyst and sole helpdesk owner for a reporting platform serving more than 2,000 European users. I maintained clear user communication while working with developers to diagnose recurring defects and close gaps in the tool itself. Fewer outages and errors meant lower support demand and a more reliable service.
+In Standard Chartered CPBB Technology, performance information was distributed across Finance, Technology, Risk, Delivery, HR and operational teams, with different definitions, reporting cycles and levels of reliability. I identified the relevant data sources, worked with owners to validate and improve the inputs, and brought them together into a coherent view of organisational performance for a 4,000+ person Technology organisation. I created a KPI and metrics suite covering financial, delivery, risk, workforce, productivity, culture and organisational-health measures, then improved the reporting process through consistent definitions, RAG commentary, targeted deep dives and Paths to Green. This moved reporting beyond describing problems by making ownership, corrective action and progress visible to senior leaders.
 
-### Turning bespoke reporting into a repeatable customer capability
+### Building a scalable People, Culture, Learning \& Engagement model
 
-As part of the first Innovation \& Development cohort at American Express Corporate Travel, I helped Accenture and internal leaders design a new customer-solutions capability. I taught myself VBA and automated the production of bespoke customer reports, allowing tailored analytics to be produced faster and more consistently.
+In the same 4,000+ person Retail Technology organisation, people, culture and learning activity existed across different teams but lacked a single structure connecting it to organisational priorities and employee experience. I designed and implemented the Four Pillars framework across inclusion, learning and development, culture and engagement, and external partnerships and community activity. I combined large-scale programmes such as Learning Is My Day Job, mentoring and coaching, Speaking of Success, recognition events and leadership communications with co-created Team Agreements for hybrid working. The approach created a more consistent operating model for engagement and capability-building while giving employees practical ways to learn, contribute and connect with leaders.
 
-### Creating financial control in a new domain
+### Building reliable portfolio and workforce reporting from fragmented sources
 
-When I moved into Membership Rewards Finance, I had to learn the language, processes and controls of Finance quickly. I built complex liability models, worked with Technology to improve source data, helped move reporting readiness from workday 21 to workday 14, and designed the SOX control, evidence, testing and tracking approach for Membership Rewards liabilities.
+In Standard Chartered Financial Markets Technology, workforce, project, BAU, vendor and financial information was held across multiple systems, reports and teams and was not consistently defined or reconciled. I identified the available sources, validated the data with Finance, HR, project and technology owners, improved access to detailed Workday information and established common reporting definitions. I then built a five-person specialist PMO, repeatable management information, executive dashboards and governance routines covering 44 projects valued at USD 60M+ and a USD 100M+ BAU portfolio. The reporting evolved into a dependable, largely push-button capability that improved decision speed and became a reference point for other Technology business managers.
+
+### Turning fragmented global finance into a disciplined management system
+
+At Bank of America, I helped move regional financial management from forecast-led reporting towards monthly actuals-based planning, redesigned the global financial cost-centre hierarchy from 1,833 to 480 cost centres and introduced a quarterly business review to make the technology cost base more transparent and inclusive. Contemporaneous CVs record more than USD 12M of cost reduction over three years, including a USD 5M reduction in charges to the business after challenging allocations. The work was not only about reducing cost: it shifted the conversation from spending a budget to making thoughtful investment choices.
+
+### Building fairer HR cost and talent processes
+
+In American Express Asia/Australia HR, I combined ticket volumes, employee populations, regional support capacity and operational evidence to design a time-allocation methodology for charging HR costs across 13 business lines. I also introduced diversity reporting for more than 13,000 employees and designed structured promotion, succession and talent-review workshops to improve transparency, consistency and confidence in people decisions.
 
 ### Avoiding a USD 1M build by adapting an existing solution
 
@@ -126,21 +133,21 @@ At Membership Travel Services International, I was given approximately USD 1M to
 
 At American Express Membership Travel Services, I extended the global MI capability beyond internal reporting. I developed preferred-partner share-shift and highlighting tools, created combined card-and-travel analysis, supported supplier negotiations with evidence of business value and built reporting to track Project Freedom, which allowed Membership Rewards points to be used directly for travel. This was an early example of using data not simply to describe performance, but to influence customer behaviour, supplier relationships and product development.
 
-### Building fairer HR cost and talent processes
+### Creating financial control in a new domain
 
-In American Express Asia/Australia HR, I combined ticket volumes, employee populations, regional support capacity and operational evidence to design a time-allocation methodology for charging HR costs across 13 business lines. I also introduced diversity reporting for more than 13,000 employees and designed structured promotion, succession and talent-review workshops to improve transparency, consistency and confidence in people decisions.
+When I moved into Membership Rewards Finance, I had to learn the language, processes and controls of Finance quickly. I built complex liability models, worked with Technology to improve source data, helped move reporting readiness from workday 21 to workday 14, and designed the SOX control, evidence, testing and tracking approach for Membership Rewards liabilities.
 
-### Creating a management system where none existed
+### Turning bespoke reporting into a repeatable customer capability
 
-On joining Standard Chartered Financial Markets Technology, the leadership team did not have a reliable answer to how many people were in the organisation or how much project and BAU funding it controlled. I established the underlying data, built a five-person specialist PMO, created repeatable management information, introduced dashboards and governance forums, and developed a reporting capability that became a reference point for other business managers.
+As part of the first Innovation \& Development cohort at American Express Corporate Travel, I helped Accenture and internal leaders design a new customer-solutions capability. I taught myself VBA and automated the production of bespoke customer reports, allowing tailored analytics to be produced faster and more consistently.
 
-### Turning fragmented global finance into a disciplined management system
+### Reducing helpdesk demand by fixing the underlying technology
 
-At Bank of America, I helped move regional financial management from forecast-led reporting towards monthly actuals-based planning, redesigned the global financial cost-centre hierarchy from 1,833 to 480 cost centres and introduced a quarterly business review to make the technology cost base more transparent and inclusive. Contemporaneous CVs record more than USD 12M of cost reduction over three years, including a USD 5M reduction in charges to the business after challenging allocations. The work was not only about reducing cost: it shifted the conversation from spending a budget to making thoughtful investment choices.
+In my first Technology role, I was simultaneously the data administrator, business analyst and sole helpdesk owner for a reporting platform serving more than 2,000 European users. I maintained clear user communication while working with developers to diagnose recurring defects and close gaps in the tool itself. Fewer outages and errors meant lower support demand and a more reliable service.
 
-### Building the first reliable enterprise Technology workforce and cost views
+### Replacing a Y2K risk with a better reporting platform
 
-At Prudential, fragmented Workday, contingent-worker, managed-service, cost-centre, cloud, vendor and Finance data meant leaders could not reliably see the Technology workforce or total cost. I reconciled the workforce manually with each business and central pillar, created the first accurate 3,800-person view, built a future-state workforce model, then designed a manual total cost of technology model across labour, cloud, infrastructure, managed services, vendors and applications. After four refreshes proved the approach, I began the transition towards stronger automated data and allocation through IBM Apptio.
+In American Express Corporate Travel Operations, the database used to track European MI delivery was not Y2K compliant. Rather than allow a predictable operational failure, I taught myself Microsoft Access, built a replacement database over several weekends and created a Crystal Reports front end. The solution preserved continuity and improved the accuracy of reporting on MI delivery and team productivity.
 
 \---
 
@@ -312,7 +319,7 @@ Supported a FICC Technology workforce of **more than 1,000 employees across 10+ 
 * Delivered more than **USD 12M in cost reductions over three years**, including a **USD 5M decrease in charges to the business** after investigating and challenging technology cost allocations.
 * Shifted management conversations from a “spend the budget” mindset towards a more disciplined **thoughtful-investment culture**.
 * Directed workforce planning, headcount control and location strategy for more than **1,000 employees across 10+ locations**.
-* Designed and drove the amalgamation of regional technology teams under a single FICC umbrella in 2012.
+* Designed and helped drive the amalgamation of the global development teams based in Singapore and London with the Asian Markets technology teams, rationalising the structure and creating a clearer, more cohesive sense of Asia Technology and its leadership.
 * Partnered with senior leaders on cost, resourcing, operating-model and organisational decisions across Global Markets in Asia and FICC globally.
 
 #### Executive reporting, risk and control
@@ -325,7 +332,7 @@ Supported a FICC Technology workforce of **more than 1,000 employees across 10+ 
 * Supported regulatory programmes, including direct interaction with regulators where required.
 * Implemented a hardware-replacement methodology so developers had fit-for-purpose equipment and replacement decisions were made consistently.
 * Partnered with Infrastructure colleagues to reduce hardware and infrastructure consumption without creating service gaps or locking the organisation into obsolete platforms.
-* Contributed to a Business Management scope document that clarified and formalised the responsibilities of the regional COO function.
+* Co-created a Business Management scope and design document with peer teams, clarifying and formalising the regional COO and business-management remit.
 * Helped ensure that cost reduction remained aligned with future architecture, resilience and business requirements.
 
 #### The broad business-management remit
@@ -649,5 +656,7 @@ I follow politics, geopolitics, technology, AI, workforce trends and investment 
 
 \---
 
+## Evidence and Version-Control Note
 
+This portfolio consolidates information from current career records, detailed role discussions and historical CVs dating back to 2009. Where older documents contained different figures because the scope changed over time, the portfolio distinguishes the period or level of responsibility rather than combining them. Examples include the Bank of America remit expanding from approximately 150 APAC employees across eight cities to more than 1,000 employees across 10+ locations, and the separation of direct budget ownership from broader analytical or coordination responsibility. Historical figures that may overlap are not added together. Future CVs should select only the evidence relevant to the target role and preserve these distinctions.
 
