@@ -12,7 +12,7 @@ At the heart of my work is practical problem-solving. I am most effective when i
 
 My approach combines analysis, curiosity, persistence, technology and relationships. I bring together incomplete data, operational knowledge and different stakeholder perspectives to create a reliable view of the problem. Where necessary, I build a manual solution first to restore control or generate insight, then improve the process through better data, reporting, automation, governance or AI. I also identify practices that work elsewhere, adapt them to the new context and build the consensus needed to make them sustainable.
 
-My work sits at the intersection of strategy, operations, people, finance, data and technology. I have supported COO, CIO and CTOO leadership; built and led PMO and business-management capabilities; governed large technology budgets and portfolios; designed enterprise workforce, cost and vendor models; created performance and organisational-health frameworks; and led culture, learning and employee-engagement programmes across complex multinational organisations.
+My work sits at the intersection of strategy, operations, people, finance, data and technology. I have supported COO, CIO and CTOO leadership; built and led PMO and business-management capabilities; governed large technology budgets and portfolios; designed enterprise workforce, cost, vendor and organisation models; created performance and organisational-health frameworks; and built repeatable approaches to hiring, skills, talent, recognition, workforce governance and employee experience across complex multinational organisations.
 
 Selected outcomes include more than **USD 30M in technology efficiencies delivered within eight months**, the first accurate workforce and future-state planning view across approximately **3,800 technology employees and 14+ locations**, governance of a **USD 60M+ project portfolio and a USD 100M+ BAU portfolio**, management of a **USD 40M annual technology budget and USD 80M application cost base**, support for a **1,000+ person global markets technology workforce**, more than **USD 12M of cost reduction over three years**, and KPI and organisational-health frameworks supporting organisations of up to **4,000 employees**.
 
@@ -67,6 +67,8 @@ My career has followed a consistent pattern:
 * Helped interview more than **300 candidates over two days** to establish the first Bangalore cohort.
 * Established skills baselines across eight capabilities for more than **80% of a 3,800-person Technology workforce**, then expanded workforce reporting and learning coverage to approximately **4,000 additional Operations employees**.
 * Built and led a team of **nine direct reports across four countries**, with engagement results outperforming comparable central Technology teams.
+* Designed and governed workforce structures across Bank of America and Standard Chartered Financial Markets, including resource-level funding, FTE/contingent-worker mix, spans and layers, role mapping, skills deployment and Paths to Green where structures moved outside agreed parameters.
+* Built structured, scored recruitment and selection approaches across Standard Chartered Financial Markets and Retail Technology, including multi-interviewer assessment, defined scoring, selection discussions and guaranteed feedback to improve fairness, transparency and candidate experience.
 
 ### Financial, Cost \& Performance Management
 
@@ -91,6 +93,8 @@ My career has followed a consistent pattern:
 
 * Designed and delivered enterprise people, culture, learning, mentoring, recognition and engagement programmes for organisations of up to **4,000+ employees**, including an employee-engagement forum serving approximately **3,000 people across Financial Markets Technology**.
 * Introduced promotion, succession and talent-review processes that increased transparency, consistency and perceived fairness.
+* Ran repeatable reward and recognition processes across Standard Chartered Financial Markets, Standard Chartered Retail Technology and Prudential, combining clear nomination and selection processes with high-energy celebrations of individual and team success across values- and delivery-based categories.
+* Ran structured succession, talent and compensation processes using clear criteria, calibration and agreed curves, with transparent communication designed to improve understanding, consistency and perceived fairness.
 * Created direct employee access to senior leaders through multi-market offsites, workshops and a rotating small-group “speed-dating” format.
 * Designed global and regional learning programmes, including AI for All, mentoring, multi-day learning events and targeted technical capability sessions.
 * Introduced diversity reporting for more than **13,000 employees** and created a data-led methodology for allocating Asia HR costs across **13 business lines**.
@@ -132,6 +136,14 @@ At Membership Travel Services International, I was given approximately USD 1M to
 ### Using data to influence customer and supplier outcomes
 
 At American Express Membership Travel Services, I extended the global MI capability beyond internal reporting. I developed preferred-partner share-shift and highlighting tools, created combined card-and-travel analysis, supported supplier negotiations with evidence of business value and built reporting to track Project Freedom, which allowed Membership Rewards points to be used directly for travel. This was an early example of using data not simply to describe performance, but to influence customer behaviour, supplier relationships and product development.
+
+### Designing fair, repeatable people and talent decision systems
+
+Across Standard Chartered Financial Markets, Standard Chartered Retail Technology and Prudential, I repeatedly turned people decisions that could otherwise feel subjective into structured, transparent processes. In Financial Markets Technology, I designed a multi-interviewer selection approach separating job/person fit, person/organisation fit and technical fit, with defined scoring and guaranteed candidate feedback. In Retail Technology, I interviewed across multiple graduate intakes using a defined scoring framework and represented each candidate's assessment in selection discussions. Across recruitment, recognition, succession, talent and compensation processes, I used clear criteria, repeatable workflows, calibration and communication to improve consistency, fairness, transparency and employee or candidate experience.
+
+### Connecting funding, skills and organisation design
+
+At Bank of America and Standard Chartered Financial Markets, I worked at individual-resource level to align people to funded work, match skills to priorities and maintain an affordable, flexible balance of permanent and contingent resources as funding moved up or down. I also analysed spans of control and organisational depth, redesigned structures to bring them into line with organisational practices, and established governance and tracking so agreed ratios were maintained. In Standard Chartered Financial Markets and Retail Technology, I remapped legacy roles to new role types, built structured skills-gathering and mapping approaches, identified capability gaps and presented recommendations covering redeployment, upskilling and targeted hiring.
 
 ### Creating financial control in a new domain
 
@@ -192,7 +204,7 @@ Partnered with senior Technology and Operations leadership, including the COO, C
 * Classified profiles as growth, stable or declining and defined appropriate onshore, offshore, location and sourcing mixes by profile.
 * Produced a strategic future-state scenario of **fewer than 2,600 roles**, making the workforce, location, capability and cost gap visible. This was a planning scenario, not a claimed completed headcount reduction.
 * Built blended workforce rates with Finance before complete P\&L reporting was available, enabling comparison of current and future workforce cost.
-* Established hiring principles and controls covering permanent and contingent hiring, onshore versus offshore location, BAU versus project demand and the appropriate use of managed services.
+* Established hiring principles and controls so proposed roles had an appropriate business need, confirmed funding, the right location, the right permanent/contingent workforce choice and, where relevant, approved vendor or managed-service sourcing before recruitment proceeded.
 * Expanded workforce reporting to include approximately **4,000 additional Operations employees** across the same regional footprint.
 
 #### Creating the first total cost of technology view
@@ -234,6 +246,11 @@ Partnered with senior Technology and Operations leadership, including the COO, C
 * Used co-created objectives, clear accountability, coaching, mentoring and active listening to build a collaborative and high-performing team.
 * Achieved engagement survey results that outperformed comparable central Technology teams.
 
+#### Recognition, workplace and employee experience
+
+* Ran a structured reward and recognition process using repeatable nominations, data gathering and transparent selection, followed by positive, high-energy celebrations of individual and team success across values- and delivery-based categories.
+* Led and delivered workplace changes including office restacks, floor mapping, shared-space planning and employee-engagement spaces, aligning physical workplace decisions with hybrid working, workforce needs and employee experience.
+
 \---
 
 ### Standard Chartered Bank, Singapore — May 2016 to Jan 2024
@@ -260,6 +277,16 @@ Led performance insight, workforce, culture, capability and executive reporting 
 * Coached and mentored colleagues within the function and continued to support people from earlier teams.
 * Designed and facilitated leadership communications, town halls, recognition events, learning sessions and award programmes.
 
+#### Organisation effectiveness, talent and workplace
+
+* Interviewed candidates across multiple annual graduate intakes for Retail Technology using a defined scoring framework, representing and defending each candidate assessment in selection discussions to support consistent, evidence-based decisions.
+* Ran repeatable reward and recognition processes covering nominations, data gathering, transparent selection and high-energy ceremonies celebrating individual and team achievement across values- and delivery-based categories.
+* Identified and tracked technology cost-efficiency actions across the organisation, including weekend data-centre shutdowns, workforce reductions aligned with changing business demand and reduced desk/office-space consumption.
+* Remapped legacy roles into newly defined role types and improved the accuracy of workforce role, skill and resource classification.
+* Designed and delivered structured skills-data gathering and mapping, presented capability gaps to senior leaders and recommended combinations of redeployment, upskilling and hiring to address critical skill needs.
+* Led and delivered office restacks, hybrid-working changes, floor mapping, shared-space usage and employee-engagement spaces across multiple buildings and locations, connecting workplace design to collaboration, culture, cost and workforce requirements.
+* Ran structured succession and talent-review processes using clear criteria and calibration, explaining the process to leaders and employees to improve understanding, consistency and perceived fairness.
+
 #### Head of Business Planning \& Strategy / Head of PMO, Trade \& Post-Trade Technology, Financial Markets — May 2016 to Apr 2020
 
 Joined a function where senior leadership did not have a reliable answer to two basic questions: how many people worked in the organisation and how much project funding it controlled. Established the data, team, governance and operating rhythm required to manage the organisation with confidence.
@@ -279,12 +306,15 @@ Joined a function where senior leadership did not have a reliable answer to two 
 #### Workforce, location and operating-model strategy
 
 * Oversaw workforce planning for approximately **1,200 employees** across Singapore, London and Chennai.
-* Controlled hiring against agreed location, skill, cost and future-state principles.
-* Worked with project and programme leaders as work concluded or was cancelled to redeploy people where possible and protect both capability and employment.
-* Led the design-planning contribution to the Bangalore workforce build-out, defining required roles, skills and numbers.
+* Implemented hiring controls so proposed roles were aligned to funded priorities, required skills, agreed locations, appropriate permanent/contingent workforce choices and approved sourcing or vendor principles before recruitment proceeded.
+* Built resource-level funding plans with project and programme leaders, moving people to funded work where skills matched as priorities changed; used redeployment to protect capability and employment where possible and actively managed permanent/contingent workforce ratios to retain affordability and flexibility as funding moved up or down.
+* Led the design-planning contribution to the Bangalore workforce build-out, defining required roles, skills and numbers, and helped design a structured selection process across multiple interviewers covering job/person fit, person/organisation fit and technical fit. The approach used defined scoring, clear assessment ownership and guaranteed candidate feedback to improve fairness, transparency and candidate experience.
 * Participated in a two-day recruitment launch that interviewed more than **300 candidates** and established the first cohort for what became a highly successful offshore engineering and support hub.
 * Travelled regularly to Bangalore and other key locations to strengthen relationships, understand local needs and support the development of an attractive working environment.
 * Streamlined vendor and contractor management, improving preferred-vendor use, visibility of the contractor population and the flexibility to expand or contract capacity.
+* Analysed spans of control and organisational depth, redesigned structures to align with organisational practices and introduced governance and tracking to maintain agreed ratios; worked with senior leaders to define and monitor Paths to Green where teams sat outside target ranges.
+* Remapped legacy roles into newly defined role types, improving the accuracy of workforce classification, role labels and skill information.
+* Designed structured skills-data gathering and mapping across the organisation, presented gaps and concentrations to senior leaders, and recommended redeployment, upskilling and targeted hiring to close critical capability gaps.
 * Supported the transition from largely waterfall delivery towards agile ways of working through a multi-year agile-enablement programme.
 * Delivered train-the-trainer programmes for organisational values and North Star strategy design.
 
@@ -292,13 +322,14 @@ Joined a function where senior leadership did not have a reliable answer to two 
 
 * Built and led **People Matter**, initially for Trade \& Post-Trade Technology and later expanded into an employee-engagement forum serving approximately **3,000 people across Financial Markets Technology**.
 * Combined learning, engagement, recognition, town halls and grassroots workshops, travelling to multiple locations to gather employee input and involve people at all levels.
+* Ran a repeatable reward and recognition process with clear submission criteria, structured data gathering, transparent selection and high-energy ceremonies celebrating individual and team success across values- and delivery-based categories.
 * Worked with senior managers to make participation and time away from the desk part of recognised leadership expectations.
-* Managed promotion planning, succession planning, talent reviews and pay discussions through structured workshops, reducing subjectivity and improving consistency, transparency and perceived fairness.
+* Managed promotion planning, succession planning, talent reviews and compensation discussions through structured workshops, agreed calibration curves and clear process communication, reducing subjectivity and improving consistency, transparency and perceived fairness.
 * Supported consistently strong employee-engagement results.
 * Designed and ran management-team offsites in Singapore, Chennai and Bangalore.
 * Created a rotating small-group “speed-dating” format in which employees met every member of the senior management team, increasing direct access, reducing hierarchy and generating strong feedback.
 * Helped a group of highly successful technology-delivery executives strengthen their effectiveness as visible and accessible people leaders.
-* Managed workforce moves, floor plans and office changes across **eight Singapore office spaces**, including Changi Business Park and Marina Bay Financial Centre, with responsibility for space planning, seating allocation, access and employee communication.
+* Led workforce moves, restacks, floor mapping, shared-space planning and office design across **eight Singapore office spaces**, including Changi Business Park and Marina Bay Financial Centre, aligning seating, access, hybrid ways of working and employee-engagement space with organisational and workforce needs.
 
 \---
 
@@ -319,6 +350,8 @@ Supported a FICC Technology workforce of **more than 1,000 employees across 10+ 
 * Delivered more than **USD 12M in cost reductions over three years**, including a **USD 5M decrease in charges to the business** after investigating and challenging technology cost allocations.
 * Shifted management conversations from a “spend the budget” mindset towards a more disciplined **thoughtful-investment culture**.
 * Directed workforce planning, headcount control and location strategy for more than **1,000 employees across 10+ locations**.
+* Built resource-level funding plans to align individual resources and skills to funded priorities, moving people as funding changed and managing permanent/contingent workforce ratios to keep headcount affordable, manageable and flexible.
+* Analysed spans of control and organisational depth, redesigned organisational structures in line with agreed practices and implemented governance and tracking to maintain target ratios, working with senior leaders on corrective actions where structures moved out of tolerance.
 * Designed and helped drive the amalgamation of the global development teams based in Singapore and London with the Asian Markets technology teams, rationalising the structure and creating a clearer, more cohesive sense of Asia Technology and its leadership.
 * Partnered with senior leaders on cost, resourcing, operating-model and organisational decisions across Global Markets in Asia and FICC globally.
 
@@ -344,7 +377,7 @@ Supported a FICC Technology workforce of **more than 1,000 employees across 10+ 
 * Managed leadership communications, newsletters, recognition, tenure celebrations and regional culture initiatives including quizzes, treasure hunts, bowling and other activities that connected dispersed teams.
 * Designed and facilitated promotion planning, succession planning and talent-review processes that became a strong reference point for HR colleagues.
 * Supported talent attraction and selection approaches.
-* Coordinated office restacks and workplace changes in Singapore and India, including seating and operational planning.
+* Led office restacks and workplace changes in Singapore and India, including floor mapping, seating, shared-space usage, employee-engagement areas and hybrid/operational planning across changing organisational structures.
 * Accepted practical responsibilities supporting workplace readiness, business continuity and employee safety—including Fire Warden, AED and drill coordination—alongside event, recognition and community-building activity.
 
 \---
@@ -495,6 +528,23 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Workforce analytics and executive decision support
 * Large-scale workforce build-outs and talent selection
 
+### Organisation Effectiveness, Workforce Governance & Decision Design
+
+* Structured candidate-assessment and scoring frameworks
+* Multi-interviewer selection design, scoring and decision discussion
+* Candidate feedback and candidate-experience improvement
+* Graduate recruitment and talent selection
+* Reward and recognition governance and delivery
+* Resource-level funding and skills-to-work alignment
+* Permanent and contingent workforce mix governance
+* Spans, layers and organisational-depth analysis
+* Organisation redesign and Paths to Green
+* Role architecture, role remapping and workforce taxonomy
+* Skills mapping, gap analysis, redeployment and targeted hiring
+* Hiring controls covering funding, role, location and sourcing
+* Succession, talent and compensation calibration
+* Transparent, repeatable and fair people-decision processes
+
 ### Financial, Cost \& Performance Management
 
 * Technology finance and business management
@@ -589,6 +639,8 @@ American Express provided a progressive sequence of roles spanning travel manage
 
 * Workplace strategy and space planning
 * Office relocations, redesigns and restacks
+* Floor mapping, shared-space optimisation and hybrid-workplace design
+* Employee-engagement and collaboration-space design
 * Seating and workforce-move planning
 * Workplace vendor and contractor engagement
 * Employee-experience initiatives and events
