@@ -14,7 +14,7 @@ My approach combines analysis, curiosity, persistence, technology and relationsh
 
 My work sits at the intersection of strategy, operations, people, finance, data and technology. I have supported COO, CIO and CTOO leadership; built and led PMO and business-management capabilities; governed large technology budgets and portfolios; designed enterprise workforce, cost, vendor and organisation models; created performance and organisational-health frameworks; and built repeatable approaches to hiring, skills, talent, recognition, workforce governance and employee experience across complex multinational organisations.
 
-Selected outcomes include more than **USD 30M in technology efficiencies delivered within eight months**, the first accurate workforce and future-state planning view across approximately **3,800 technology employees and 14+ locations**, governance of a **USD 60M+ project portfolio and a USD 100M+ BAU portfolio**, management of a **USD 40M annual technology budget and USD 80M application cost base**, support for a **1,000+ person global markets technology workforce**, more than **USD 12M of cost reduction over three years**, and KPI and organisational-health frameworks supporting organisations of up to **4,000 employees**.
+Selected outcomes include more than **USD 30M in technology efficiencies delivered within eight months**, the first accurate workforce and future-state planning view across approximately **3,800 technology employees and 14+ locations**, governance of a **USD 60M+ project portfolio and a USD 100M+ BAU portfolio**, management of **USD 40M in direct annual resource and P&L costs alongside USD 80M in allocated annual global application costs**, support for a **1,000+ person global markets technology workforce**, more than **USD 12M of cost reduction over three years**, and KPI and organisational-health frameworks supporting organisations of up to **4,000 employees**.
 
 I bring a strong human dimension to transformation. I use co-creation, clear communication, coaching and practical stakeholder engagement to bring people with me rather than impose change on them. I have designed fairer talent and succession processes, built high-performing regional teams, created direct dialogue between employees and senior leaders, and developed learning, mentoring and capability programmes that connect organisational strategy with individual opportunity.
 
@@ -55,8 +55,9 @@ My career has followed a consistent pattern:
 
 * Delivered more than **USD 30M in technology efficiencies within eight months** through an eight-pillar Technology APEX programme, with each initiative assigned a baseline, future state, owner and tracked outcome.
 * Led PMO and governance across a **USD 60M+ Financial Markets project portfolio and a USD 100M+ BAU portfolio**, creating the financial, workforce, delivery and executive controls required to manage both change and run activity.
-* Built a specialist PMO team of **five** and introduced the governance, dashboards and controls required to manage **44 projects**, cost, workforce, delivery, risks and dependencies.
+* Built a specialist PMO team of **five**, combining clear individual ownership with shared processes, governance and reporting to manage **44 projects**, cost, workforce, delivery, risks and dependencies. Extended successful PMO and engagement approaches into the wider Financial Markets Technology function.
 * Supported enterprise change including agile enablement, North Star strategy design, values deployment, regulatory programmes, infrastructure resilience and operating-model transformation.
+* Helped agree target squad structures across CPBB Technology, tracked Paths to Green for agile enablement and ensured learning pathways supported the roles and capabilities required by the transformation.
 
 ### Workforce, Organisation \& Capability
 
@@ -72,19 +73,20 @@ My career has followed a consistent pattern:
 
 ### Financial, Cost \& Performance Management
 
-* Managed a **USD 40M annual technology budget** and **USD 80M application cost base** across APAC FICC Technology and Global Emerging Markets.
+* Managed approximately **USD 40M in annual direct resource and P&L cost-centre costs** and challenged approximately **USD 80M in annual allocated costs for the global applications supported by the team**, across APAC FICC Technology and Global Emerging Markets.
 * Delivered more than **USD 12M in technology cost reductions over three years** at Bank of America, including a **USD 5M reduction in charges to the business** after challenging allocations and cost attribution.
 * Redesigned a global financial cost-centre hierarchy from **1,833 to 480 cost centres** and helped move financial management from forecast-led reporting to monthly actuals-based planning.
-* Designed a manual total cost of technology model combining workforce effort, cloud consumption, managed services, third-party infrastructure, application costs, projects and major LBU expenditure.
+* Built Prudential's first total cost of applications (TCOA) view within weeks, combining workforce effort, cloud consumption, Coupa non-resource invoices, outsourced estate support and hardware-support costs. Designed direct and indirect allocation methods, made the process repeatable and extended it into cost-to-serve and cost-to-business views.
 * Built TCO, TCOA, cost-to-serve, application-cost, cloud-cost, productivity and recharge methodologies across banking and insurance environments.
 * Managed and forecast a regional HR budget across **14 cost centres**, achieving a **USD 12.4M+ 2008 target** despite cuts and restrictions and negotiating a **USD 12M+ 2009 budget** during restructuring.
 * Avoided the need for a planned **USD 1M bespoke MI build** by adapting an existing corporate solution at zero additional cost and rolling it out globally.
 
 ### Data, Reporting \& Control
 
-* Built KPI, scorecard and organisational-health frameworks for a **4,000+ person retail technology organisation**, including RAG reporting, executive commentary and Paths to Green.
+* Designed a scorecard of **40+ KPI and organisational-health measures** for a **4,000+ person retail technology organisation**, bringing workforce, employee experience, finance, delivery, agile adoption, service, risk and learning into leadership's view of effectiveness and efficiency, with RAG reporting, executive commentary and Paths to Green.
 * Developed the first reliable views of Technology headcount, organisational structure, vendor spend, cloud cost and application cost in environments where the source data was incomplete or inconsistent.
 * Designed reporting and data solutions using Access, Crystal Reports, VBA, Excel, MI platforms, dashboards and AI-enabled workflows; earlier hands-on tools also included Visio, PeopleSoft, Essbase and HTML.
+* Used Clarity for approximately **four years** to reconcile workforce, time allocation and cost; support annual funding cycles; and track project funding and deliverables against agreed plans.
 * Created a Y2K-compliant reporting database over several weekends after teaching myself Microsoft Access, maintaining continuity while improving reporting accuracy and productivity insight.
 * Designed and implemented SOX control tracking and reporting for Membership Rewards liability processes.
 * Accelerated Membership Rewards reporting readiness from **workday 21 to workday 14** by improving models, source data and technology collaboration.
@@ -97,6 +99,8 @@ My career has followed a consistent pattern:
 * Ran structured succession, talent and compensation processes using clear criteria, calibration and agreed curves, with transparent communication designed to improve understanding, consistency and perceived fairness.
 * Created direct employee access to senior leaders through multi-market offsites, workshops and a rotating small-group “speed-dating” format.
 * Designed global and regional learning programmes, including AI for All, mentoring, multi-day learning events and targeted technical capability sessions.
+* Implemented mentoring in Trade & Post-Trade Technology, extended it across Financial Markets Technology and repeated the approach in CPBB, matching mentors and mentees by development needs and lived experience. Launched a separate CPBB coaching cohort.
+* Designed and published Human-Centred Design-led Team Agreements across CPBB and owned post-return-to-office floor planning, supporting a fair and comparable employee experience, lower attrition and improved survey results.
 * Introduced diversity reporting for more than **13,000 employees** and created a data-led methodology for allocating Asia HR costs across **13 business lines**.
 
 \---
@@ -107,19 +111,23 @@ These examples show the recurring pattern behind my career: identify what is unc
 
 ### Building the first reliable enterprise Technology workforce and cost views
 
-At Prudential, fragmented Workday, contingent-worker, managed-service, cost-centre, cloud, vendor and Finance data meant leaders could not reliably see the Technology workforce or total cost. I reconciled the workforce manually with each business and central pillar, created the first accurate 3,800-person view, built a future-state workforce model, then designed a manual total cost of technology model across labour, cloud, infrastructure, managed services, vendors and applications. After four refreshes proved the approach, I began the transition towards stronger automated data and allocation through IBM Apptio.
+At Prudential, fragmented Workday, contingent-worker, managed-service, cost-centre, cloud, vendor and Finance data meant leaders could not reliably see the Technology workforce or total cost. I reconciled the workforce manually with each business and central pillar, created the first accurate 3,800-person view and built a future-state workforce model. Within weeks, I also built the first total cost of applications (TCOA) view by gathering workforce effort, cloud costs, non-resource invoice data from Coupa, outsourced vendor costs supporting the estate and hardware-support costs. I designed the direct and indirect cost-allocation methods, including weighting approaches for shared costs, and turned the initial model into a repeatable process. I then extended it into cost-to-serve and cost-to-business views. After four manual refreshes proved the approach, I engaged IBM Apptio to explore stronger source data, automated allocations and a future consumption-based recharge model.
 
 ### Turning fragmented measures into a 360-degree performance system
 
-In Standard Chartered CPBB Technology, performance information was distributed across Finance, Technology, Risk, Delivery, HR and operational teams, with different definitions, reporting cycles and levels of reliability. I identified the relevant data sources, worked with owners to validate and improve the inputs, and brought them together into a coherent view of organisational performance for a 4,000+ person Technology organisation. I created a KPI and metrics suite covering financial, delivery, risk, workforce, productivity, culture and organisational-health measures, then improved the reporting process through consistent definitions, RAG commentary, targeted deep dives and Paths to Green. This moved reporting beyond describing problems by making ownership, corrective action and progress visible to senior leaders.
+In Standard Chartered CPBB Technology, performance information was distributed across Finance, Technology, Risk, Delivery, HR and operational teams, with different definitions, reporting cycles and levels of reliability. I identified the relevant sources, worked with owners to validate the inputs and designed a new scorecard for a 4,000+ person Technology organisation. I selected measures that broadened leadership's view of organisational health: financial performance and workforce size sat alongside attrition, vacancies and ageing, spans and layers, employee experience, agile squad readiness, Product Owner alignment, learning, cloud adoption, engineering activity, service performance and risk and audit follow-through. The suite included more than 40 measures, with consistent definitions, RAG commentary, targeted deep dives and Paths to Green. This made the information useful for decisions by showing who owned an issue, what needed to change and whether corrective action was progressing.
 
 ### Building a scalable People, Culture, Learning \& Engagement model
 
-In the same 4,000+ person Retail Technology organisation, people, culture and learning activity existed across different teams but lacked a single structure connecting it to organisational priorities and employee experience. I designed and implemented the Four Pillars framework across inclusion, learning and development, culture and engagement, and external partnerships and community activity. I combined large-scale programmes such as Learning Is My Day Job, mentoring and coaching, Speaking of Success, recognition events and leadership communications with co-created Team Agreements for hybrid working. The approach created a more consistent operating model for engagement and capability-building while giving employees practical ways to learn, contribute and connect with leaders.
+In the same 4,000+ person Retail Technology organisation, people, culture and learning activity existed across different teams but lacked a single structure connecting it to organisational priorities and employee experience. I designed and implemented the Four Pillars framework across inclusion, learning and development, culture and engagement, and external partnerships and community activity. I combined programmes such as Learning Is My Day Job, Speaking of Success, recognition events and leadership communications with mentoring that matched people by their development needs and lived experience, and launched a separate coaching cohort. I had previously implemented mentoring in Trade & Post-Trade Technology and then extended it across Financial Markets Technology. The approach created a more consistent operating model for engagement and capability-building while giving employees practical ways to learn, contribute and connect with leaders.
+
+### Designing hybrid working around teams and employee experience
+
+For CPBB's return to the office, I owned floor-planning decisions and worked with workplace and real-estate colleagues to create flexible seating, spaces for team interaction and shared facilities. I also developed and published Human-Centred Design-led Team Agreements across CPBB, using co-creation to make expectations, collaboration practices and accountability clear. The aim was a fair and comparable employee experience across teams, with enough flexibility for different work and collaboration needs. These changes contributed to reduced attrition and improved employee-survey results.
 
 ### Building reliable portfolio and workforce reporting from fragmented sources
 
-In Standard Chartered Financial Markets Technology, workforce, project, BAU, vendor and financial information was held across multiple systems, reports and teams and was not consistently defined or reconciled. I identified the available sources, validated the data with Finance, HR, project and technology owners, improved access to detailed Workday information and established common reporting definitions. I then built a five-person specialist PMO, repeatable management information, executive dashboards and governance routines covering 44 projects valued at USD 60M+ and a USD 100M+ BAU portfolio. The reporting evolved into a dependable, largely push-button capability that improved decision speed and became a reference point for other Technology business managers.
+In Standard Chartered Financial Markets Technology, workforce, project, BAU, vendor and financial information was held across multiple systems, reports and teams and was not consistently defined or reconciled. I validated the available data with Finance, HR, project and technology owners, improved access to detailed Workday information and established common reporting definitions. I built and redesigned the operating model for a five-person specialist PMO, giving each person clear ownership while using shared processes across 44 projects valued at USD 60M+ and a USD 100M+ BAU portfolio. I used Clarity to reconcile time, workforce and costs, align allocations with project and BAU application owners, support annual funding submissions and track funding against deliverables. The team maintained and reported its respective areas in greater detail. The approach improved reporting reliability and consistency of decision-making while keeping the PMO lean. Through my partnership with the Head of Business Planning and Strategy for FM Technology, I adapted and extended successful PMO and engagement approaches across the wider function.
 
 ### Turning fragmented global finance into a disciplined management system
 
@@ -186,7 +194,7 @@ I use generative AI as a practical extension of the way I have approached proble
 
 ## 🏢 Career Experience
 
-### Prudential, Singapore — Aug 2024 to Present
+### Prudential, Singapore — Aug 2024 to Sep 2026
 
 **Head of Business Management, T\&O Service Delivery Office**
 
@@ -207,15 +215,18 @@ Partnered with senior Technology and Operations leadership, including the COO, C
 * Established hiring principles and controls so proposed roles had an appropriate business need, confirmed funding, the right location, the right permanent/contingent workforce choice and, where relevant, approved vendor or managed-service sourcing before recruitment proceeded.
 * Expanded workforce reporting to include approximately **4,000 additional Operations employees** across the same regional footprint.
 
-#### Creating the first total cost of technology view
+#### Creating the first total cost of applications and technology views
 
 * Identified that the organisation could not reliably explain the total cost of its applications, central products, local businesses or shared Technology services.
-* Designed a manual total cost of technology approach, using workforce effort-capture templates to allocate employee time across applications and projects over a 12-month period.
+* Built the first total cost of applications (TCOA) view within a matter of weeks, manually gathering and reconciling the source data.
+* Designed workforce effort-capture templates to allocate employee time across applications and projects over a 12-month period.
 * Worked around limitations in the existing cloud-reporting platform by obtaining underlying data extracts and creating allocation methodologies for cloud consumption across application and project workspaces.
-* Developed weighting methodologies to allocate third-party infrastructure and service-support costs across applications.
+* Gathered non-resource invoice costs from Coupa, outsourced vendor costs supporting the estate and hardware-support costs, bringing these together with workforce and cloud data.
+* Designed the direct and indirect allocation methods, including weighting methodologies for shared third-party infrastructure and service-support costs across applications.
 * Partnered with local business units and Finance teams to capture and allocate the largest budget items, covering approximately 80% of major expenditure.
 * Combined workforce, cloud, managed services, infrastructure, vendor and LBU data into a 12-month total cost view.
 * Enabled leaders to compare application efficiency, identify opportunities for consolidation, estimate the savings from replacing local applications with central platforms and track whether expected savings were achieved.
+* Turned the initial model into a repeatable reporting process and developed cost-to-serve and cost-to-business views.
 * Completed four manual data refreshes and then engaged IBM Apptio to explore stronger source data, automated allocations, analysis and a future consumption-based recharge model.
 
 #### Delivering cost efficiency and stronger vendor governance
@@ -255,27 +266,32 @@ Partnered with senior Technology and Operations leadership, including the COO, C
 
 ### Standard Chartered Bank, Singapore — May 2016 to Jan 2024
 
-#### KPI \& Metrics Lead / People \& Culture Lead, CPBB Technology — Apr 2020 to Jan 2024
+#### Director, KPI \& Metrics Lead / People \& Culture Lead, CPBB Technology — Apr 2020 to Jan 2024
 
 Led performance insight, workforce, culture, capability and executive reporting across a **4,000+ person retail technology organisation**.
 
 * Identified and sourced multiple data streams to build a 360-degree view of organisational health, cost, workforce, delivery, risk, culture and performance.
-* Created a senior-leadership suite of more than **40 KPI and organisational-health measures**, improving transparency, enabling focused performance conversations and making action ownership visible.
+* Designed and implemented a new senior-leadership scorecard of more than **40 KPI and organisational-health measures**, selecting the measures that mattered to effectiveness and efficiency across financial performance, workforce, employee experience, delivery, service, risk, learning and transformation.
 * Built RAG reporting, executive commentary, targeted deep dives and **Paths to Green**, moving the organisation from reporting issues to defining and tracking corrective action.
 * Developed cost-of-technology, TCOA, cost-to-serve, productivity and organisational-health methodologies and KPIs for retail technology.
 * Used data to identify gaps, challenge assumptions and guide leadership attention towards the areas requiring intervention.
 * Designed and rolled out **Four Pillars**, a People, Culture, Learning \& Engagement framework covering inclusion, learning and development, culture and engagement, and external partnerships and community activity.
-* Designed and delivered large-scale mentoring and coaching programmes.
+* Designed and implemented a large-scale mentoring programme, matching mentors and mentees by development needs and lived experience.
+* Launched a separate coaching cohort to support colleagues' development.
 * Created and ran multi-day learning events under **Learning Is My Day Job**, making capability-building visible and accessible across the organisation.
 * Developed **Speaking of Success**, a leadership-content series sharing senior leaders’ career journeys and practical lessons.
-* Implemented hybrid-working **Team Agreements**, using co-creation to clarify expectations, collaboration practices and accountability.
+* Developed and published Human-Centred Design-led hybrid-working **Team Agreements** across CPBB, using co-creation to clarify expectations, collaboration practices and accountability and support a fair, comparable employee experience. The approach contributed to reduced attrition and improved employee-survey results.
 * Partnered on organisation redesign, manpower planning, job evaluation, workforce strategy, skills and capacity-management activity.
+* Helped agree the squad structures required for agile enablement, then tracked and followed up Paths to Green across the organisation, including alignment of Product Owners to squads.
+* Ensured learning and development pathways were available so employees could build the skills required for future roles aligned with the agile transformation.
+* Managed contractor vendors in line with changing corporate strategy, aligning sourcing and capacity with delivery requirements.
+* Designed solutions to address conduct-risk issues.
 * Advised executives on workforce, people, culture, capability, organisational health and employee experience.
 * Partnered with workplace and real-estate teams to align office design with collaboration, learning, culture and well-being.
 * Represented the division on Learning, Sustainability, inclusion and Future Ways of Working councils.
 * Used collaborative tools including Mural, Trello, Confluence and Teams to design and run workshops, working-agreement sessions, mentoring, learning, recognition and best-practice activities.
 * Coached and mentored colleagues within the function and continued to support people from earlier teams.
-* Designed and facilitated leadership communications, town halls, recognition events, learning sessions and award programmes.
+* Designed and delivered leadership communications, offsites, town halls, recognition events, learning sessions and award programmes, owning speaker coordination, content, venues, logistics and Q&A.
 
 #### Organisation effectiveness, talent and workplace
 
@@ -284,10 +300,25 @@ Led performance insight, workforce, culture, capability and executive reporting 
 * Identified and tracked technology cost-efficiency actions across the organisation, including weekend data-centre shutdowns, workforce reductions aligned with changing business demand and reduced desk/office-space consumption.
 * Remapped legacy roles into newly defined role types and improved the accuracy of workforce role, skill and resource classification.
 * Designed and delivered structured skills-data gathering and mapping, presented capability gaps to senior leaders and recommended combinations of redeployment, upskilling and hiring to address critical skill needs.
-* Led and delivered office restacks, hybrid-working changes, floor mapping, shared-space usage and employee-engagement spaces across multiple buildings and locations, connecting workplace design to collaboration, culture, cost and workforce requirements.
+* Owned post-return-to-office floor-planning decisions and delivered office restacks, hybrid-working changes, floor mapping, shared-space usage and employee-engagement spaces across multiple buildings and locations. Established flexible seating arrangements that supported team interaction and shared spaces, connecting workplace design to collaboration, culture, cost and workforce requirements.
 * Ran structured succession and talent-review processes using clear criteria and calibration, explaining the process to leaders and employees to improve understanding, consistency and perceived fairness.
 
-#### Head of Business Planning \& Strategy / Head of PMO, Trade \& Post-Trade Technology, Financial Markets — May 2016 to Apr 2020
+#### Selected scorecard measures and definitions
+
+The scorecard brought together more than 40 measures. Selected measures and analytical views included:
+
+| Area | Measures and analytical views |
+| --- | --- |
+| Workforce, structure and capacity | Total headcount; hires; open roles and vacancy ageing; location split; organisational depth; span of control; employee/contractor mix. |
+| People, culture and capability | Attrition and regretted attrition; internal mobility; employee satisfaction (ESAT); diversity; average learning days per employee. |
+| Financial performance and value | Cost of technology and total cost of ownership; total cost of applications (TCOA); cost-to-serve; project spend; cost of estate; average cost of headcount; change/run ratios; operating and capital expenditure. |
+| Agile enablement and delivery | Agile transformation percentage; number of Product Owners and their alignment to squads; transformation objectives; Speed to Market (S2M), using Jira to track elapsed time from approval of a sprint or epic to deployment. |
+| Technology, service and customer | Percentage on cloud; code-commit participation, measured as the percentage of engineers in the development population committing code; MTTR; customer NPS. |
+| Risk and audit visibility | Number of risks captured; open risks and their resolution; total audit items and open audit items. |
+
+Product Owner coverage and alignment were tracked to support the agreed squad structures. Code-commit participation measured how much of the development engineering population was contributing code. Speed to Market measured the approval-to-deployment interval recorded through Jira.
+
+#### Director, Head of Business Planning \& Strategy / Head of PMO, Trade \& Post-Trade Technology, Financial Markets — May 2016 to Apr 2020
 
 Joined a function where senior leadership did not have a reliable answer to two basic questions: how many people worked in the organisation and how much project funding it controlled. Established the data, team, governance and operating rhythm required to manage the organisation with confidence.
 
@@ -295,13 +326,17 @@ Joined a function where senior leadership did not have a reliable answer to two 
 
 * Established the first reliable views of headcount, location, role, project funding, BAU cost and organisational structure.
 * Led PMO and governance across **44 projects valued at USD 60M+** and a **USD 100M+ BAU portfolio**, creating clear project-versus-BAU cost, workforce, delivery and accountability views.
-* Recruited, built and led a high-performing PMO team of **five specialists** covering project and BAU cost analysis, tracking, governance and implementation.
+* Recruited, built and led a high-performing PMO team of **five specialists** covering project and BAU cost analysis, tracking, governance and implementation. Redesigned the PMO operating model around clear individual ownership and shared processes, enabling a lean team to cover the full Trade & Post-Trade portfolio with more consistent decisions and reliable reporting.
 * Gave each team member clear accountability for challenging project managers and programme owners, maintaining governance guardrails and improving forecast, cost and delivery discipline.
 * Created detailed reporting that evolved into repeatable, push-button management information capable of answering questions that had previously required manual investigation, giving leadership a reliable view of project and BAU cost, headcount, location, role, funding and delivery.
 * The reporting and governance approach became a recognised gold standard across Financial Markets Technology, with other business managers seeking support to adapt the methods for their own organisations.
 * Worked with enterprise Technology to improve Workday HR reporting and secure appropriately controlled access to more detailed workforce data, strengthening decision-making while protecting sensitive information.
 * Launched portfolio dashboards and executive reporting covering cost, headcount, delivery, risk, dependencies, priorities and action ownership.
+* Used **Clarity for approximately four years** to ensure employees recorded and allocated timesheet effort in line with agreements with project and BAU application owners, and to reconcile workforce, effort and costs.
+* Used Clarity during annual planning cycles to prepare funding submissions, secure the funding required and track funding and delivery against agreed project plans.
+* Oversaw PMO specialists' more extensive use of Clarity to maintain records, track and update status, and report across their respective areas of ownership.
 * Ran management-team meetings, shaped agendas and ensured strategic workforce, location, cost and delivery decisions were converted into actions.
+* Adapted and extended successful TPT PMO models and engagement approaches across the wider Financial Markets Technology function through a close working relationship with its Head of Business Planning and Strategy.
 
 #### Workforce, location and operating-model strategy
 
@@ -309,6 +344,7 @@ Joined a function where senior leadership did not have a reliable answer to two 
 * Implemented hiring controls so proposed roles were aligned to funded priorities, required skills, agreed locations, appropriate permanent/contingent workforce choices and approved sourcing or vendor principles before recruitment proceeded.
 * Built resource-level funding plans with project and programme leaders, moving people to funded work where skills matched as priorities changed; used redeployment to protect capability and employment where possible and actively managed permanent/contingent workforce ratios to retain affordability and flexibility as funding moved up or down.
 * Led the design-planning contribution to the Bangalore workforce build-out, defining required roles, skills and numbers, and helped design a structured selection process across multiple interviewers covering job/person fit, person/organisation fit and technical fit. The approach used defined scoring, clear assessment ownership and guaranteed candidate feedback to improve fairness, transparency and candidate experience.
+* Designed and implemented recruitment and onboarding approaches for TPT, including mandatory panel interviews to make selection consistent and evidence-based.
 * Participated in a two-day recruitment launch that interviewed more than **300 candidates** and established the first cohort for what became a highly successful offshore engineering and support hub.
 * Travelled regularly to Bangalore and other key locations to strengthen relationships, understand local needs and support the development of an attractive working environment.
 * Streamlined vendor and contractor management, improving preferred-vendor use, visibility of the contractor population and the flexibility to expand or contract capacity.
@@ -322,11 +358,13 @@ Joined a function where senior leadership did not have a reliable answer to two 
 
 * Built and led **People Matter**, initially for Trade \& Post-Trade Technology and later expanded into an employee-engagement forum serving approximately **3,000 people across Financial Markets Technology**.
 * Combined learning, engagement, recognition, town halls and grassroots workshops, travelling to multiple locations to gather employee input and involve people at all levels.
+* Designed and implemented a TPT mentoring programme and extended it across Financial Markets Technology, matching mentors and mentees according to development needs and lived experience.
+* Used engagement and fairness initiatives to improve internal mobility, knowledge sharing, collaboration and a shared understanding of success across the multinational workforce.
 * Ran a repeatable reward and recognition process with clear submission criteria, structured data gathering, transparent selection and high-energy ceremonies celebrating individual and team success across values- and delivery-based categories.
 * Worked with senior managers to make participation and time away from the desk part of recognised leadership expectations.
 * Managed promotion planning, succession planning, talent reviews and compensation discussions through structured workshops, agreed calibration curves and clear process communication, reducing subjectivity and improving consistency, transparency and perceived fairness.
 * Supported consistently strong employee-engagement results.
-* Designed and ran management-team offsites in Singapore, Chennai and Bangalore.
+* Designed and ran management-team offsites in Singapore, Chennai and Bangalore, alongside town halls, recognition ceremonies, learning and knowledge-sharing events. Owned speakers, content, locations, logistics and Q&A from planning through delivery.
 * Created a rotating small-group “speed-dating” format in which employees met every member of the senior management team, increasing direct access, reducing hierarchy and generating strong feedback.
 * Helped a group of highly successful technology-delivery executives strengthen their effectiveness as visible and accessible people leaders.
 * Led workforce moves, restacks, floor mapping, shared-space planning and office design across **eight Singapore office spaces**, including Changi Business Park and Marina Bay Financial Centre, aligning seating, access, hybrid ways of working and employee-engagement space with organisational and workforce needs.
@@ -341,7 +379,8 @@ Supported a FICC Technology workforce of **more than 1,000 employees across 10+ 
 
 #### Financial, application and workforce management
 
-* Managed a **USD 40M annual technology budget** and **USD 80M application cost base**.
+* Managed approximately **USD 40M annually in direct resource and P&L cost-centre costs** under my purview, covering operational and project-related expenditure.
+* Managed, challenged and rationalised approximately **USD 80M annually in allocated costs for the global applications supported by the team**. This was the allocated application-cost view, distinct from the direct resource and P&L cost-centre view.
 * Earlier in the role, negotiated and built an APAC budget of approximately **USD 26M** and served as the main analyst and central contact for a **USD 160M 2012 global budget**; this was analytical and coordination responsibility, not sole ownership of the full global budget.
 * Identified resources, activities, project assignments and application ownership, then consolidated the information weekly to create a dependable view of who was working on what, where effort should be charged and how the application cost base should be managed.
 * Helped redesign the effort-capture process used to allocate resource time and cost to applications, improving the quality and fairness of cost attribution across projects, programmes and the run estate.
@@ -414,7 +453,7 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Served as the global “data guru” and a member of the global management team for a premium, high-end consumer-travel organisation, owning its data, reporting, analytics and management-information structure.
 * Was allocated approximately **USD 1M** to build a bespoke travel-activity MI tool.
 * Challenged the assumption that a new build was necessary and adapted an existing Corporate Travel solution at **zero additional cost**.
-* Worked with Technology to capture consumer activity through an Corporate existing platform and added markets and data structures not present in the corporate implementation.
+* Worked with Technology to capture consumer activity through an existing Corporate Travel platform and added markets and data structures not present in the corporate implementation.
 * Rolled out the solution globally and trained more than **50 users**.
 * Integrated Mexico, Thailand and Taiwan into the global MI database at zero additional cost.
 * Designed and managed data feeds, reporting structures and analytical outputs.
@@ -507,6 +546,8 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Operating-model transformation
 * Process redesign, simplification, standardisation and workflow improvement
 * Agile enablement and new ways of working
+* Squad-structure alignment, Product Owner coverage and Paths to Green
+* Clarity portfolio, funding, timesheet and delivery-plan oversight
 * Regulatory and risk-driven programme support
 * Audit support, control remediation and corrective-action tracking
 * Six Sigma process-improvement methods
@@ -558,6 +599,8 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Cost-efficiency and optimisation programmes
 * Investment and resource prioritisation
 * KPI, scorecard and executive-performance frameworks
+* Direct and indirect cost-allocation methodology design
+* Cost-to-business reporting and analysis
 * RAG reporting and Paths to Green
 * Financial control, SOX tracking and management reporting
 
@@ -581,12 +624,13 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Learning and capability strategy
 * Skills baselining and gap analysis
 * AI-tool adoption and upskilling
-* Mentoring and coaching programmes
+* Mentoring programme design and rollout, with matching by needs and lived experience
+* Coaching cohort design and launch
 * Leadership capability and communication
 * Co-created objectives and team accountability
 * Culture, engagement and organisational-health frameworks
 * Inclusion and fair-process design
-* Hybrid-working practices and Team Agreements
+* Human-Centred Design-led hybrid-working practices and Team Agreements
 * Promotion, succession and talent-review governance
 * Employee experience, recognition and well-being
 * Large-scale learning events, workshops and town halls
@@ -610,6 +654,9 @@ American Express provided a progressive sequence of roles spanning travel manage
 ### Data, Analytics \& Technology
 
 * Advanced Excel modelling and MI reporting
+* Clarity workforce, timesheet, cost and annual funding reconciliation
+* Jira-based Speed to Market reporting from approval to deployment
+* Coupa invoice-data analysis and allocation into application costs
 * Data sourcing, reconciliation, consolidation and quality improvement
 * Data-gap identification and remediation
 * Executive dashboards, KPI packs and RAG reporting
@@ -628,6 +675,7 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Executive communication and presentation development
 * Leadership messages, newsletters and narrative
 * Town halls, offsites, workshops and employee forums
+* End-to-end event delivery covering speakers, content, venues, logistics and Q&A
 * Stakeholder mapping, listening and consensus building
 * Train-the-trainer and large-group facilitation
 * Change communication and adoption support
