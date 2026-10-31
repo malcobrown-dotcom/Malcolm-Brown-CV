@@ -712,6 +712,9 @@ American Express provided a progressive sequence of roles spanning travel manage
 
 ### Selected Professional Development
 
+* Google Cloud — Introduction to Responsible AI - 2024
+* Google Cloud — Introduction to Large Language Models — 2024
+* Google Cloud — Introduction to Generative AI — 2024
 * LEAP Leadership — Prudential
 * LUMA Human-Centred Design Practitioner
 * Shackleton Leadership Experience
@@ -731,6 +734,7 @@ American Express provided a progressive sequence of roles spanning travel manage
 * Communicating about culturally sensitive issues
 * Compliance training across American Express, Bank of America, Standard Chartered and Prudential
 * Fire Warden and AED training
+
 
 \---
 
